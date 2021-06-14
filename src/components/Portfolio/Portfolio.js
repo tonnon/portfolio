@@ -1,26 +1,19 @@
 import React, { useState, useEffect } from 'react';
-import './portfolio.sass';
-import FadeIn from 'react-fade-in';
-
 import { FaGamepad } from 'react-icons/fa'; 
-import { MdSelectAll, MdWebAsset } from 'react-icons/md'; 
+import { MdSelectAll, MdWebAsset } from 'react-icons/md';
 
-import looperman from '../../assets/bgcards/looperman.gif';
-import disguised from '../../assets/bgcards/disguised.gif';
-import spacerocker from '../../assets/bgcards/spacerocker.gif';
-import fcknpidgey from '../../assets/bgcards/fcknpidgey.gif'; 
-import alongnight from '../../assets/bgcards/alongnight.gif';
-import haterspace from '../../assets/bgcards/haterspace.gif';
-import orbital from '../../assets/bgcards/orbital.gif';
-import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
-import bethehero from '../../assets/bgcards/bethehero.png';
-import helptoner from '../../assets/bgcards/helptoner.gif';
-import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
+import FadeIn from 'react-fade-in';
+import portfolio from './PortfolioList';
+
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
+
+import './portfolio.sass';
 
 function Portfolio() {
     const [filter, setFilter] = useState('all');
     const [projects, setProjects] = useState([]);
-
+    
     function shuffle(arra1) {
         var ctr = arra1.length,
           temp,
@@ -40,75 +33,6 @@ function Portfolio() {
         const filtered = portfolio.map(p => ({ ...p, filtered: p.category.includes(filter) }));
         setProjects(filtered);
       }, [filter], []);
-
-    let portfolio = [
-        {
-            title: 'The Amazing Looperman',
-            img: looperman,
-            video: 'https://youtu.be/lXqBIRL2va0',
-            category: ['all', 'game']
-        },
-        {
-            title: 'Disguised',
-            img: disguised,
-            video: 'https://youtu.be/HnpBGTijVUU',
-            category: ['all', 'game']
-        },
-        {
-            title: 'Space Rocker',
-            img: spacerocker,
-            video: 'https://youtu.be/TFeitCgsxiw',
-            category: ['all', 'game']
-        },
-        {
-            title: 'F*CKING PIDGEY!',
-            img: fcknpidgey,
-            video: 'https://youtu.be/x3My31HWnNI',
-            category: ['all', 'game']
-        },
-        {
-            title: 'A Long Night',
-            img: alongnight,
-            url: 'https://scratch.mit.edu/projects/239451175',
-            category: ['all', 'game', 'website']
-        },
-        {
-            title: 'Hater Space',
-            img: haterspace,
-            video: 'https://youtu.be/vAtk6DyodvI',
-            category: ['all', 'game']
-        },
-        {
-            title: 'Orbital',
-            img: orbital,
-            video: 'https://youtu.be/FnW-31K6hAE',
-            category: ['all', 'game']
-        },
-        {
-            title: 'Cyber Tetromino',
-            img: cybertetromino,
-            url: 'https://cyber-tetromino.herokuapp.com/',
-            category: ['all', 'game', 'website']
-        },
-        {
-            title: 'Be The Hero',
-            img: bethehero,
-            url: 'https://bahero.herokuapp.com/',
-            category: ['all', 'website']
-        },
-        {
-            title: 'Helptoner',
-            img: helptoner,
-            url: 'https://helptoner.herokuapp.com/',
-            category: ['all', 'website']
-        },
-        {
-            title: 'Rick and Morty',
-            img: rickandmorty,
-            url: 'https://rick-and-morty-infinitescroll.herokuapp.com/',
-            category: ['all', 'website']
-        },
-    ];
 
     return (
         <div>
