@@ -17,6 +17,7 @@ import helptoner from '../../assets/bgcards/helptoner.gif';
 import hihowareyou from '../../assets/bgcards/hihowareyou.jpg';
 import illuminati from '../../assets/bgcards/illuminati.gif';
 import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
+import letmeask from '../../assets/bgcards/letmeask.png';
 import looperman from '../../assets/bgcards/looperman.gif';
 import orbital from '../../assets/bgcards/orbital.gif';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
@@ -25,6 +26,7 @@ import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
 import spacerocker from '../../assets/bgcards/spacerocker.gif';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import walkingdead from '../../assets/bgcards/walkingdead.gif';
+import wormhole from '../../assets/bgcards/wormhole.gif';
 
 let PortfolioList = [
     {
@@ -142,6 +144,12 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
+        title: 'Letmeask',
+        img: letmeask,
+        url: 'https://letmeask-eb1d7.web.app/',
+        category: ['all', 'website']
+    },
+    {
         title: 'The Amazing Looperman',
         img: looperman,
         url: 'https://tonnon.github.io/the-amazing-looperman/',
@@ -187,6 +195,12 @@ let PortfolioList = [
         title: 'Verificação de Email Template',
         img: verificacaoemail,
         video: 'https://tonnon.github.io/codigo-verificacao-template/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'A Filosofia da Viagem no Tempo',
+        img: wormhole,
+        video: 'https://tonnon.github.io/wormhole/',
         category: ['all', 'website']
     },
 ];
