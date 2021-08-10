@@ -122,7 +122,7 @@ let PortfolioList = [
     {
         title: 'Helptoner',
         img: helptoner,
-        url: 'https://helptoner.herokuapp.com/',
+        url: 'https://tonnon.github.io/helptoner/',
         category: ['all', 'website']
     },
     {
