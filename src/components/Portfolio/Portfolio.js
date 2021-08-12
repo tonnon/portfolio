@@ -5,7 +5,6 @@ import { MdSelectAll, MdWebAsset } from 'react-icons/md';
 import FadeIn from 'react-fade-in';
 import portfolio from './PortfolioList';
 
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 
 import './portfolio.sass';

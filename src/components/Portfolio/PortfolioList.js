@@ -26,6 +26,7 @@ import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
 import spacerocker from '../../assets/bgcards/spacerocker.gif';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import walkingdead from '../../assets/bgcards/walkingdead.gif';
+import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
 import wormhole from '../../assets/bgcards/wormhole.gif';
 
 let PortfolioList = [
@@ -196,6 +197,12 @@ let PortfolioList = [
         img: verificacaoemail,
         video: 'https://tonnon.github.io/codigo-verificacao-template/',
         category: ['all', 'website']
+    },
+    {
+        title: 'War of the Worlds',
+        img: waroftheworlds,
+        video: 'https://tonnon.github.io/war-of-the-worlds/',
+        category: ['all', 'website', 'game']
     },
     {
         title: 'A Filosofia da Viagem no Tempo',
