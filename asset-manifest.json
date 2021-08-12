@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.00749886.chunk.css",
-    "main.js": "/portfolio/static/js/main.aad7c332.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.aad7c332.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b681628a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b681628a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.d20f54a0.chunk.js": "/portfolio/static/js/2.d20f54a0.chunk.js",
-    "static/js/2.d20f54a0.chunk.js.map": "/portfolio/static/js/2.d20f54a0.chunk.js.map",
+    "static/js/2.522a14ce.chunk.js": "/portfolio/static/js/2.522a14ce.chunk.js",
+    "static/js/2.522a14ce.chunk.js.map": "/portfolio/static/js/2.522a14ce.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.e9aee92b6abd92a93eb4584c29901cc6.js": "/portfolio/precache-manifest.e9aee92b6abd92a93eb4584c29901cc6.js",
+    "precache-manifest.6b7d53d5451606a55bf12a85880a1f4b.js": "/portfolio/precache-manifest.6b7d53d5451606a55bf12a85880a1f4b.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
     "static/css/main.00749886.chunk.css.map": "/portfolio/static/css/main.00749886.chunk.css.map",
-    "static/js/2.d20f54a0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d20f54a0.chunk.js.LICENSE.txt",
+    "static/js/2.522a14ce.chunk.js.LICENSE.txt": "/portfolio/static/js/2.522a14ce.chunk.js.LICENSE.txt",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/bethehero.png": "/portfolio/static/media/bethehero.cbc0a6cd.png",
     "static/media/btomec.gif": "/portfolio/static/media/btomec.44dc7889.gif",
@@ -43,13 +43,14 @@
     "static/media/spacerocker.gif": "/portfolio/static/media/spacerocker.dd18b45d.gif",
     "static/media/verificacaoemail.gif": "/portfolio/static/media/verificacaoemail.d5e36dee.gif",
     "static/media/walkingdead.gif": "/portfolio/static/media/walkingdead.c5f4f4a9.gif",
+    "static/media/war-of-the-worlds.gif": "/portfolio/static/media/war-of-the-worlds.4f7b08aa.gif",
     "static/media/wormhole.gif": "/portfolio/static/media/wormhole.b81b8c78.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.d20f54a0.chunk.js",
+    "static/js/2.522a14ce.chunk.js",
     "static/css/main.00749886.chunk.css",
-    "static/js/main.aad7c332.chunk.js"
+    "static/js/main.b681628a.chunk.js"
   ]
 }
