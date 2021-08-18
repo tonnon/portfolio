@@ -24,7 +24,7 @@ function Footer() {
                         <p>(13) 98192-4572</p>
                     </div>
                 </div>
-                <p className="copyright">Copyright © 2020</p>
+                <p className="copyright">Copyright © {(new Date().getFullYear())} </p>
             </div>
         </div>
     );

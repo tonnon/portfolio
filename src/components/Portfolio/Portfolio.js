@@ -65,16 +65,16 @@ function Portfolio() {
             <div id="portfolio">
                 {projects.map(project => project.filtered === true ? (
                     <FadeIn key={project.title}>
-                        <a target="_blank" href={project.video || project.url}>
-                            <div  className="card-wrap">
+                        <div  className="card-wrap">
+                            <a target="_blank" href={project.video || project.url}>
                                 <div className="card">
                                     <div className="card-bg" style={{ backgroundImage:'url(' + `${project.img}` + ')'}}/>
                                     <div className="card-info">
                                         <h1>{project.title}</h1>
                                     </div>
                                 </div> 
-                            </div> 
-                        </a>  
+                            </a> 
+                        </div> 
                     </FadeIn>            
                 ) : '' )}
             </div>
