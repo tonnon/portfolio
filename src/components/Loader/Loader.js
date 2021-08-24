@@ -9,20 +9,20 @@ function Loader() {
     }
 
     return (
-        <div class="home">
+        <div className="home">
             <div id="container">
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
-                <div class='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
+                <div className='dot'></div>
             </div>
         </div>
     )

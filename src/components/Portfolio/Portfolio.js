@@ -12,7 +12,7 @@ import './portfolio.sass';
 function Portfolio() {
     const [filter, setFilter] = useState('all');
     const [projects, setProjects] = useState([]);
-    
+
     function shuffle(arra1) {
         var ctr = arra1.length,
           temp,
@@ -29,7 +29,7 @@ function Portfolio() {
       
       useEffect(() => {
         setProjects(shuffle(portfolio));
-        const filtered = portfolio.map(p => ({ ...p, filtered: p.category.includes(filter) }));
+        const filtered = portfolio.map(p => ({ ...p, filtered: p.category.includes(filter)}));
         setProjects(filtered);
       }, [filter], []);
 
