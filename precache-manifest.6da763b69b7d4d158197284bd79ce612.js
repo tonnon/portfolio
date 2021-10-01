@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94041bed7837a8e4791c7367a7fdb980",
+    "revision": "79e1b8085372cd0beff0424b9a2f386f",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "053a14fa8e81fcb3b7fa",
+    "revision": "2c64333223c721e902f4",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "86f267f37840da607bac",
+    "revision": "392664e6c38b4a445435",
     "url": "/portfolio/static/css/main.f79f7ab9.chunk.css"
   },
   {
-    "revision": "053a14fa8e81fcb3b7fa",
-    "url": "/portfolio/static/js/2.e0c076c4.chunk.js"
+    "revision": "2c64333223c721e902f4",
+    "url": "/portfolio/static/js/2.5abb978c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.e0c076c4.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.5abb978c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86f267f37840da607bac",
-    "url": "/portfolio/static/js/main.60854782.chunk.js"
+    "revision": "392664e6c38b4a445435",
+    "url": "/portfolio/static/js/main.22b19080.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cbc0a6cd3f0d848e0db6bdf3a306dc1d",
     "url": "/portfolio/static/media/bethehero.cbc0a6cd.png"
+  },
+  {
+    "revision": "039b28c27659df3be5c8ee4eb59676f3",
+    "url": "/portfolio/static/media/brokenglassshapedofaheart.039b28c2.jpg"
   },
   {
     "revision": "44dc7889c5b55dac425ac4c09f63fa4a",
