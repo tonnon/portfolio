@@ -1,6 +1,7 @@
 import adidas from '../../assets/bgcards/adidas.jpg';
 import alongnight from '../../assets/bgcards/alongnight.gif';
 import bethehero from '../../assets/bgcards/bethehero.png';
+import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofaheart.jpg';
 import btocmec from '../../assets/bgcards/btomec.gif';
 import calculadora from '../../assets/bgcards/calculadora.gif';
 import cardapio from '../../assets/bgcards/cardapio.gif';
@@ -47,6 +48,12 @@ let PortfolioList = [
         title: 'Be The Hero',
         img: bethehero,
         url: 'https://bahero.herokuapp.com/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Broken Glass Shaped of a Heart',
+        img: brokenglassshapedofaheart,
+        url: 'https://tonnon.github.io/broken-glass-shaped-of-a-heart/',
         category: ['all', 'website']
     },
     {
@@ -218,6 +225,5 @@ let PortfolioList = [
         category: ['all', 'website']
     },
 ];
-
 
 export default PortfolioList;
