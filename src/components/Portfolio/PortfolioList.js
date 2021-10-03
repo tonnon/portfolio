@@ -26,6 +26,7 @@ import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
 import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
 import spacerocker from '../../assets/bgcards/spacerocker.gif';
+import truthdealer from '../../assets/bgcards/truthdealer.jpg';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import walkingdead from '../../assets/bgcards/walkingdead.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
@@ -199,6 +200,12 @@ let PortfolioList = [
         img: spacerocker,
         video: 'https://youtu.be/TFeitCgsxiw',
         category: ['all', 'game']
+    },
+    {
+        title: 'The Truth Dealer',
+        img: truthdealer,
+        url: 'https://tonnon.github.io/the-truth-dealer/',
+        category: ['all', 'website', 'game']
     },
     {
         title: '2001: A Space Oddysey',
