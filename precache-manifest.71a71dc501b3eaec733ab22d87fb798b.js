@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f43b21256bde1eeaa59b6fd61d20c85c",
+    "revision": "b14bfd4d900bdad7411058d3c554b0e3",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "16982e2a028af7dc4871",
+    "revision": "62077b7e8c76650fd439",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "19d766be73b4afc1dd03",
+    "revision": "05e96f7088f7047c96e7",
     "url": "/portfolio/static/css/main.f79f7ab9.chunk.css"
   },
   {
-    "revision": "16982e2a028af7dc4871",
-    "url": "/portfolio/static/js/2.8789e40b.chunk.js"
+    "revision": "62077b7e8c76650fd439",
+    "url": "/portfolio/static/js/2.57549060.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.8789e40b.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.57549060.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19d766be73b4afc1dd03",
-    "url": "/portfolio/static/js/main.fcf367f3.chunk.js"
+    "revision": "05e96f7088f7047c96e7",
+    "url": "/portfolio/static/js/main.38946a28.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -68,16 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/deusesastronautas.e0d8d24a.gif"
   },
   {
-    "revision": "5fb539ba799e68fef8aaeb99023716ce",
-    "url": "/portfolio/static/media/disguised.5fb539ba.gif"
-  },
-  {
     "revision": "1729d9b91e5b0df24e4cb0a342a7d823",
     "url": "/portfolio/static/media/eclipsers.1729d9b9.gif"
-  },
-  {
-    "revision": "dff3548b6a0be96f162394e86cff36ab",
-    "url": "/portfolio/static/media/fcknpidgey.dff3548b.gif"
   },
   {
     "revision": "fccfefdbb0843e2f1fc92614ca54bc3a",
@@ -90,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "366ededf6d812eca92dc75c29f0a3131",
     "url": "/portfolio/static/media/happyhourclub.366ededf.png"
-  },
-  {
-    "revision": "1c888ccdc9eb30e22ebf1df15dabf9c0",
-    "url": "/portfolio/static/media/haterspace.1c888ccd.gif"
   },
   {
     "revision": "791c6b2c099ae9bcbb20db6d593f3f98",
@@ -120,10 +108,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/looperman.16639df9.gif"
   },
   {
-    "revision": "62b1f76b5103009286a40ed60bf13dc8",
-    "url": "/portfolio/static/media/orbital.62b1f76b.gif"
-  },
-  {
     "revision": "5675f1de5c4f33d4eb9bc6860a9b0294",
     "url": "/portfolio/static/media/rickandmorty.5675f1de.gif"
   },
@@ -134,10 +118,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "94218f571ccafa5c23edb03dedabf784",
     "url": "/portfolio/static/media/spaceoddysey.94218f57.gif"
-  },
-  {
-    "revision": "dd18b45dd55162304fdd9b11c34064be",
-    "url": "/portfolio/static/media/spacerocker.dd18b45d.gif"
   },
   {
     "revision": "d5e36dee05aca85884d0f09c3fd474ce",
