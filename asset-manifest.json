@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f79f7ab9.chunk.css",
-    "main.js": "/portfolio/static/js/main.38946a28.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.38946a28.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3d85c17f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3d85c17f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.57549060.chunk.js": "/portfolio/static/js/2.57549060.chunk.js",
-    "static/js/2.57549060.chunk.js.map": "/portfolio/static/js/2.57549060.chunk.js.map",
+    "static/js/2.5a0a70af.chunk.js": "/portfolio/static/js/2.5a0a70af.chunk.js",
+    "static/js/2.5a0a70af.chunk.js.map": "/portfolio/static/js/2.5a0a70af.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.71a71dc501b3eaec733ab22d87fb798b.js": "/portfolio/precache-manifest.71a71dc501b3eaec733ab22d87fb798b.js",
+    "precache-manifest.b7c27e33eee41ef32db3c30e57e5999a.js": "/portfolio/precache-manifest.b7c27e33eee41ef32db3c30e57e5999a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
     "static/css/main.f79f7ab9.chunk.css.map": "/portfolio/static/css/main.f79f7ab9.chunk.css.map",
-    "static/js/2.57549060.chunk.js.LICENSE.txt": "/portfolio/static/js/2.57549060.chunk.js.LICENSE.txt",
+    "static/js/2.5a0a70af.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5a0a70af.chunk.js.LICENSE.txt",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/bethehero.png": "/portfolio/static/media/bethehero.cbc0a6cd.png",
     "static/media/brokenglassshapedofaheart.jpg": "/portfolio/static/media/brokenglassshapedofaheart.039b28c2.jpg",
@@ -34,6 +34,7 @@
     "static/media/ledzeppelin.gif": "/portfolio/static/media/ledzeppelin.bf086a32.gif",
     "static/media/letmeask.png": "/portfolio/static/media/letmeask.e1808d90.png",
     "static/media/looperman.gif": "/portfolio/static/media/looperman.16639df9.gif",
+    "static/media/pinterest.jpeg": "/portfolio/static/media/pinterest.93b92f1e.jpeg",
     "static/media/rickandmorty.gif": "/portfolio/static/media/rickandmorty.5675f1de.gif",
     "static/media/soundtracker.gif": "/portfolio/static/media/soundtracker.cbde970c.gif",
     "static/media/spaceoddysey.gif": "/portfolio/static/media/spaceoddysey.94218f57.gif",
@@ -45,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.57549060.chunk.js",
+    "static/js/2.5a0a70af.chunk.js",
     "static/css/main.f79f7ab9.chunk.css",
-    "static/js/main.38946a28.chunk.js"
+    "static/js/main.3d85c17f.chunk.js"
   ]
 }
