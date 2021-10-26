@@ -18,6 +18,7 @@ import illuminati from '../../assets/bgcards/illuminati.gif';
 import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.png';
 import looperman from '../../assets/bgcards/looperman.gif';
+import pinterest from '../../assets/bgcards/pinterest.jpeg';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
 import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
@@ -148,6 +149,12 @@ let PortfolioList = [
         img: looperman,
         url: 'https://tonnon.github.io/the-amazing-looperman/',
         category: ['all', 'game', 'website']
+    },
+    {
+        title: 'Pinterest',
+        img: pinterest,
+        url: 'https://tonnon.github.io/pinterest/',
+        category: ['all', 'website']
     },
     {
         title: 'The Walking Dead',
