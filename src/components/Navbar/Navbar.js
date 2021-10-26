@@ -1,6 +1,6 @@
 import React from 'react';
 import cvpdf from '../../assets/cv-tonon.pdf';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 import './navbar.sass';
 
 let items = [

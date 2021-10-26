@@ -66,7 +66,7 @@ function Portfolio() {
                 {projects.map(project => project.filtered === true ? (
                     <FadeIn key={project.title}>
                         <div  className="card-wrap">
-                            <a target="_blank" href={project.video || project.url}>
+                            <a target="_blank" rel="noopener noreferrer" href={project.url}>
                                 <div className="card">
                                     <div className="card-bg" style={{ backgroundImage:'url(' + `${project.img}` + ')'}}/>
                                     <div className="card-info">

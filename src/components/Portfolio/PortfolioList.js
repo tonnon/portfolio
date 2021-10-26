@@ -8,25 +8,21 @@ import cardapio from '../../assets/bgcards/cardapio.gif';
 import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
 import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
-import disguised from '../../assets/bgcards/disguised.gif';
 import eclipsers from '../../assets/bgcards/eclipsers.gif';
-import fcknpidgey from '../../assets/bgcards/fcknpidgey.gif';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
 import hanszimmer from '../../assets/bgcards/hanszimmer.gif';
 import happyhourclub from '../../assets/bgcards/happyhourclub.png';
-import haterspace from '../../assets/bgcards/haterspace.gif';
 import helptoner from '../../assets/bgcards/helptoner.gif';
 import hihowareyou from '../../assets/bgcards/hihowareyou.jpg';
 import illuminati from '../../assets/bgcards/illuminati.gif';
 import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.png';
 import looperman from '../../assets/bgcards/looperman.gif';
-import orbital from '../../assets/bgcards/orbital.gif';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
 import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
-import spacerocker from '../../assets/bgcards/spacerocker.gif';
 import truthdealer from '../../assets/bgcards/truthdealer.jpg';
+import vercel from '../../assets/bgcards/vercel.jpg';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import walkingdead from '../../assets/bgcards/walkingdead.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
@@ -94,46 +90,28 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'Disguised',
-        img: disguised,
-        video: 'https://youtu.be/HnpBGTijVUU',
-        category: ['all', 'game']
-    },
-    {
         title: 'Eclipsers',
         img: eclipsers,
-        video: 'https://tonnon.github.io/eclipsers/',
+        url: 'https://tonnon.github.io/eclipsers/',
         category: ['all', 'website']
-    },
-    {
-        title: 'F*CKING PIDGEY!',
-        img: fcknpidgey,
-        video: 'https://youtu.be/x3My31HWnNI',
-        category: ['all', 'game']
     },
     {
         title: 'Form Template',
         img: formtemplate,
-        video: 'https://tonnon.github.io/form-template/',
+        url: 'https://tonnon.github.io/form-template/',
         category: ['all', 'website']
     },
     {
         title: 'Hans Zimmer',
         img: hanszimmer,
-        video: 'https://tonnon.github.io/hans-zimmer/',
+        url: 'https://tonnon.github.io/hans-zimmer/',
         category: ['all', 'website']
     },
     {
         title: 'Happy Hour Club',
         img: happyhourclub,
-        video: 'https://tonnon.github.io/happy-hour-club/',
+        url: 'https://tonnon.github.io/happy-hour-club/',
         category: ['all', 'website']
-    },
-    {
-        title: 'Hater Space',
-        img: haterspace,
-        video: 'https://youtu.be/vAtk6DyodvI',
-        category: ['all', 'game']
     },
     {
         title: 'Helptoner',
@@ -178,12 +156,6 @@ let PortfolioList = [
         category: ['all', 'website']
     },  
     {
-        title: 'Orbital',
-        img: orbital,
-        video: 'https://youtu.be/FnW-31K6hAE',
-        category: ['all', 'game']
-    },
-    {
         title: 'Rick and Morty',
         img: rickandmorty,
         url: 'https://rick-and-morty-infinitescroll.herokuapp.com/',
@@ -196,39 +168,39 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'Space Rocker',
-        img: spacerocker,
-        video: 'https://youtu.be/TFeitCgsxiw',
-        category: ['all', 'game']
-    },
-    {
         title: 'The Truth Dealer',
         img: truthdealer,
         url: 'https://tonnon.github.io/the-truth-dealer/',
         category: ['all', 'website', 'game']
     },
     {
+        title: 'Vercel',
+        img: vercel,
+        url: 'https://tonnon.github.io/vercel/',
+        category: ['all', 'website']
+    },
+    {
         title: '2001: A Space Oddysey',
         img: spaceoddysey,
-        video: 'https://tonnon.github.io/space-oddysey/',
+        url: 'https://tonnon.github.io/space-oddysey/',
         category: ['all', 'website']
     },
     {
         title: 'Verificação de Email Template',
         img: verificacaoemail,
-        video: 'https://tonnon.github.io/codigo-verificacao-template/',
+        url: 'https://tonnon.github.io/codigo-verificacao-template/',
         category: ['all', 'website']
     },
     {
         title: 'War of the Worlds',
         img: waroftheworlds,
-        video: 'https://tonnon.github.io/war-of-the-worlds/',
+        url: 'https://tonnon.github.io/war-of-the-worlds/',
         category: ['all', 'website', 'game']
     },
     {
         title: 'A Filosofia da Viagem no Tempo',
         img: wormhole,
-        video: 'https://tonnon.github.io/wormhole/',
+        url: 'https://tonnon.github.io/wormhole/',
         category: ['all', 'website']
     },
 ];
