@@ -22,6 +22,8 @@ import pinterest from '../../assets/bgcards/pinterest.jpeg';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
 import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
+import splitmind from '../../assets/bgcards/splitmind.jpg';
+import thingsthatialwayswantedsaytoyou from '../../assets/bgcards/thingsthatialwayswantedsaytoyou.png';
 import truthdealer from '../../assets/bgcards/truthdealer.jpg';
 import vercel from '../../assets/bgcards/vercel.jpg';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
@@ -40,7 +42,7 @@ let PortfolioList = [
         title: 'A Long Night',
         img: alongnight,
         url: 'https://scratch.mit.edu/projects/239451175',
-        category: ['all', 'game', 'website']
+        category: ['all', 'game']
     },
     {
         title: 'Be The Hero',
@@ -76,7 +78,7 @@ let PortfolioList = [
         title: 'Cyber Tetromino',
         img: cybertetromino,
         url: 'https://cyber-tetromino.herokuapp.com/',
-        category: ['all', 'game', 'website']
+        category: ['all', 'game']
     },
     {
         title: 'Dead Gods',
@@ -130,7 +132,7 @@ let PortfolioList = [
         title: 'Illuminati: New World Order Online',
         img: illuminati,
         url: 'https://tonnon.github.io/illuminati-new-world-order-online/',
-        category: ['all', 'website', 'game']
+        category: ['all', 'game']
     },
     {
         title: 'Led Zeppelin',
@@ -148,7 +150,7 @@ let PortfolioList = [
         title: 'The Amazing Looperman',
         img: looperman,
         url: 'https://tonnon.github.io/the-amazing-looperman/',
-        category: ['all', 'game', 'website']
+        category: ['all', 'website']
     },
     {
         title: 'Pinterest',
@@ -178,7 +180,7 @@ let PortfolioList = [
         title: 'The Truth Dealer',
         img: truthdealer,
         url: 'https://tonnon.github.io/the-truth-dealer/',
-        category: ['all', 'website', 'game']
+        category: ['all', 'game']
     },
     {
         title: 'Vercel',
@@ -193,6 +195,18 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
+        title: 'Split Mind',
+        img: splitmind,
+        url: 'https://tonnon.github.io/split-mind/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Things That I Always Wanted Say To You',
+        img: thingsthatialwayswantedsaytoyou,
+        url: 'https://tonnon.github.io/things-that-i-always-wanted-say-to-you/',
+        category: ['all', 'website']
+    },
+    {
         title: 'Verificação de Email Template',
         img: verificacaoemail,
         url: 'https://tonnon.github.io/codigo-verificacao-template/',
@@ -202,7 +216,7 @@ let PortfolioList = [
         title: 'War of the Worlds',
         img: waroftheworlds,
         url: 'https://tonnon.github.io/war-of-the-worlds/',
-        category: ['all', 'website', 'game']
+        category: ['all', 'game']
     },
     {
         title: 'A Filosofia da Viagem no Tempo',
