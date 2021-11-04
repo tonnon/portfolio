@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ee4498238337632e2e51f48ed673daa",
+    "revision": "eca391298c4bf5eb860d4390a45a8678",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "19cafd1871e913edf9ca",
+    "revision": "2c64333223c721e902f4",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "4cb6dc3926e4c87cfe83",
+    "revision": "74c086b094b46028357a",
     "url": "/portfolio/static/css/main.f79f7ab9.chunk.css"
   },
   {
-    "revision": "19cafd1871e913edf9ca",
-    "url": "/portfolio/static/js/2.5a0a70af.chunk.js"
+    "revision": "2c64333223c721e902f4",
+    "url": "/portfolio/static/js/2.5abb978c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.5a0a70af.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.5abb978c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cb6dc3926e4c87cfe83",
-    "url": "/portfolio/static/js/main.3d85c17f.chunk.js"
+    "revision": "74c086b094b46028357a",
+    "url": "/portfolio/static/js/main.9761d90e.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -122,6 +122,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "94218f571ccafa5c23edb03dedabf784",
     "url": "/portfolio/static/media/spaceoddysey.94218f57.gif"
+  },
+  {
+    "revision": "451a4e9a32366159cacaa3219e0a06b0",
+    "url": "/portfolio/static/media/splitmind.451a4e9a.jpg"
+  },
+  {
+    "revision": "64268d81c60d5c28594c1dcc889b5955",
+    "url": "/portfolio/static/media/thingsthatialwayswantedsaytoyou.64268d81.png"
   },
   {
     "revision": "d5e36dee05aca85884d0f09c3fd474ce",
