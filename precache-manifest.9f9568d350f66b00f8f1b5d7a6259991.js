@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eca391298c4bf5eb860d4390a45a8678",
+    "revision": "12ada7b0f158e4a5def83b4cb70d0735",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "2c64333223c721e902f4",
+    "revision": "4bbd67fdfdfa0990f1a4",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "74c086b094b46028357a",
+    "revision": "f5ef7081a97df9796050",
     "url": "/portfolio/static/css/main.f79f7ab9.chunk.css"
   },
   {
-    "revision": "2c64333223c721e902f4",
-    "url": "/portfolio/static/js/2.5abb978c.chunk.js"
+    "revision": "4bbd67fdfdfa0990f1a4",
+    "url": "/portfolio/static/js/2.4005e74b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.5abb978c.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.4005e74b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74c086b094b46028357a",
-    "url": "/portfolio/static/js/main.9761d90e.chunk.js"
+    "revision": "f5ef7081a97df9796050",
+    "url": "/portfolio/static/js/main.1f9a966b.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/alongnight.ee5f2ad3.gif"
   },
   {
-    "revision": "cbc0a6cd3f0d848e0db6bdf3a306dc1d",
-    "url": "/portfolio/static/media/bethehero.cbc0a6cd.png"
+    "revision": "2fe56a97e703be8d5d7073fccdef09be",
+    "url": "/portfolio/static/media/bethehero.2fe56a97.png"
   },
   {
     "revision": "039b28c27659df3be5c8ee4eb59676f3",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/cv-tonon.0e979812.pdf"
   },
   {
+    "revision": "fd8b8c500d27b5eb65c0dd1c7cf29f26",
+    "url": "/portfolio/static/media/cyberpool.fd8b8c50.png"
+  },
+  {
     "revision": "b3963d2944952d37ce4b6f110fe58556",
     "url": "/portfolio/static/media/cybertetromino.b3963d29.gif"
   },
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1729d9b91e5b0df24e4cb0a342a7d823",
     "url": "/portfolio/static/media/eclipsers.1729d9b9.gif"
+  },
+  {
+    "revision": "d347302fa80f1386598673367d8bf40f",
+    "url": "/portfolio/static/media/experimentaltruchettiles.d347302f.png"
   },
   {
     "revision": "fccfefdbb0843e2f1fc92614ca54bc3a",
@@ -108,10 +116,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/looperman.16639df9.gif"
   },
   {
-    "revision": "93b92f1e9b7d96586ae3747f5b8084a9",
-    "url": "/portfolio/static/media/pinterest.93b92f1e.jpeg"
-  },
-  {
     "revision": "5675f1de5c4f33d4eb9bc6860a9b0294",
     "url": "/portfolio/static/media/rickandmorty.5675f1de.gif"
   },
@@ -124,12 +128,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/spaceoddysey.94218f57.gif"
   },
   {
-    "revision": "451a4e9a32366159cacaa3219e0a06b0",
-    "url": "/portfolio/static/media/splitmind.451a4e9a.jpg"
+    "revision": "a5a5f7716cdcf52fbe4990373ab71b42",
+    "url": "/portfolio/static/media/splitmind.a5a5f771.jpg"
   },
   {
     "revision": "64268d81c60d5c28594c1dcc889b5955",
     "url": "/portfolio/static/media/thingsthatialwayswantedsaytoyou.64268d81.png"
+  },
+  {
+    "revision": "419754092cebaa0e17eaa98e48b13975",
+    "url": "/portfolio/static/media/universal-law-of-love.41975409.jpg"
   },
   {
     "revision": "d5e36dee05aca85884d0f09c3fd474ce",
