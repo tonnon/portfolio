@@ -5,11 +5,14 @@ import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofa
 import btocmec from '../../assets/bgcards/btomec.gif';
 import calculadora from '../../assets/bgcards/calculadora.gif';
 import cardapio from '../../assets/bgcards/cardapio.gif';
+import cyberpool from '../../assets/bgcards/cyberpool.png';
 import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
 import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
 import eclipsers from '../../assets/bgcards/eclipsers.gif';
+import experimentaltruchettiles from '../../assets/bgcards/experimentaltruchettiles.png';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
+import google from '../../assets/bgcards/google.jpeg';
 import hanszimmer from '../../assets/bgcards/hanszimmer.gif';
 import happyhourclub from '../../assets/bgcards/happyhourclub.png';
 import helptoner from '../../assets/bgcards/helptoner.gif';
@@ -25,6 +28,7 @@ import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
 import splitmind from '../../assets/bgcards/splitmind.jpg';
 import thingsthatialwayswantedsaytoyou from '../../assets/bgcards/thingsthatialwayswantedsaytoyou.png';
 import truthdealer from '../../assets/bgcards/truthdealer.jpg';
+import universallawoflove from '../../assets/bgcards/universal-law-of-love.jpg';
 import vercel from '../../assets/bgcards/vercel.jpg';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import walkingdead from '../../assets/bgcards/walkingdead.gif';
@@ -75,6 +79,12 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
+        title: 'Cyberpool',
+        img: cyberpool,
+        url: 'https://tonnon.github.io/cyberpool/',
+        category: ['all', 'game']
+    },
+    {
         title: 'Cyber Tetromino',
         img: cybertetromino,
         url: 'https://cyber-tetromino.herokuapp.com/',
@@ -99,9 +109,21 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
+        title: 'Experimental Truchet Tiles',
+        img: experimentaltruchettiles,
+        url: 'https://tonnon.github.io/experimental-truchet-tiles/',
+        category: ['all', 'website']
+    },
+    {
         title: 'Form Template',
         img: formtemplate,
         url: 'https://tonnon.github.io/form-template/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Google',
+        img: google,
+        url: 'https://tonnon.github.io/google/',
         category: ['all', 'website']
     },
     {
@@ -177,12 +199,6 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'The Truth Dealer',
-        img: truthdealer,
-        url: 'https://tonnon.github.io/the-truth-dealer/',
-        category: ['all', 'game']
-    },
-    {
         title: 'Vercel',
         img: vercel,
         url: 'https://tonnon.github.io/vercel/',
@@ -204,6 +220,18 @@ let PortfolioList = [
         title: 'Things That I Always Wanted Say To You',
         img: thingsthatialwayswantedsaytoyou,
         url: 'https://tonnon.github.io/things-that-i-always-wanted-say-to-you/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'The Truth Dealer',
+        img: truthdealer,
+        url: 'https://tonnon.github.io/the-truth-dealer/',
+        category: ['all', 'game']
+    },
+    {
+        title: 'Universal Law of Love',
+        img: universallawoflove,
+        url: 'https://tonnon.github.io/universal-law-of-love/',
         category: ['all', 'website']
     },
     {
