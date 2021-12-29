@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f79f7ab9.chunk.css",
-    "main.js": "/portfolio/static/js/main.1f9a966b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1f9a966b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c31362af.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c31362af.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.4005e74b.chunk.js": "/portfolio/static/js/2.4005e74b.chunk.js",
-    "static/js/2.4005e74b.chunk.js.map": "/portfolio/static/js/2.4005e74b.chunk.js.map",
+    "static/js/2.73a4c372.chunk.js": "/portfolio/static/js/2.73a4c372.chunk.js",
+    "static/js/2.73a4c372.chunk.js.map": "/portfolio/static/js/2.73a4c372.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9f9568d350f66b00f8f1b5d7a6259991.js": "/portfolio/precache-manifest.9f9568d350f66b00f8f1b5d7a6259991.js",
+    "precache-manifest.63eaf3aac795f8d05a68d44b2a71e94e.js": "/portfolio/precache-manifest.63eaf3aac795f8d05a68d44b2a71e94e.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
     "static/css/main.f79f7ab9.chunk.css.map": "/portfolio/static/css/main.f79f7ab9.chunk.css.map",
-    "static/js/2.4005e74b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4005e74b.chunk.js.LICENSE.txt",
+    "static/js/2.73a4c372.chunk.js.LICENSE.txt": "/portfolio/static/js/2.73a4c372.chunk.js.LICENSE.txt",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/bethehero.png": "/portfolio/static/media/bethehero.2fe56a97.png",
     "static/media/brokenglassshapedofaheart.jpg": "/portfolio/static/media/brokenglassshapedofaheart.039b28c2.jpg",
@@ -26,6 +26,7 @@
     "static/media/deadgods.gif": "/portfolio/static/media/deadgods.4e2a21a3.gif",
     "static/media/deusesastronautas.gif": "/portfolio/static/media/deusesastronautas.e0d8d24a.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.1729d9b9.gif",
+    "static/media/everydayisaroughtime.gif": "/portfolio/static/media/everydayisaroughtime.7edb7d82.gif",
     "static/media/experimentaltruchettiles.png": "/portfolio/static/media/experimentaltruchettiles.d347302f.png",
     "static/media/formtemplate.gif": "/portfolio/static/media/formtemplate.fccfefdb.gif",
     "static/media/hanszimmer.gif": "/portfolio/static/media/hanszimmer.95290a16.gif",
@@ -50,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.4005e74b.chunk.js",
+    "static/js/2.73a4c372.chunk.js",
     "static/css/main.f79f7ab9.chunk.css",
-    "static/js/main.1f9a966b.chunk.js"
+    "static/js/main.c31362af.chunk.js"
   ]
 }
