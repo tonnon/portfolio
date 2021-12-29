@@ -10,6 +10,7 @@ import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
 import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
 import eclipsers from '../../assets/bgcards/eclipsers.gif';
+import everydayisaroughtime from '../../assets/bgcards/everydayisaroughtime.gif';
 import experimentaltruchettiles from '../../assets/bgcards/experimentaltruchettiles.png';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
 import google from '../../assets/bgcards/google.jpeg';
@@ -106,6 +107,12 @@ let PortfolioList = [
         title: 'Eclipsers',
         img: eclipsers,
         url: 'https://tonnon.github.io/eclipsers/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Everyday is a Rough Time',
+        img: everydayisaroughtime,
+        url: 'https://tonnon.github.io/everyday-is-a-rough-time/',
         category: ['all', 'website']
     },
     {
