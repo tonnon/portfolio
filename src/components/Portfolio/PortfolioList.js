@@ -1,6 +1,7 @@
 import adidas from '../../assets/bgcards/adidas.jpg';
 import alongnight from '../../assets/bgcards/alongnight.gif';
 import bethehero from '../../assets/bgcards/bethehero.png';
+import brightstarinourencounter from '../../assets/bgcards/brightstarinourencounter.png';
 import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofaheart.jpg';
 import btocmec from '../../assets/bgcards/btomec.gif';
 import calculadora from '../../assets/bgcards/calculadora.gif';
@@ -53,6 +54,12 @@ let PortfolioList = [
         title: 'Be The Hero',
         img: bethehero,
         url: 'https://bahero.herokuapp.com/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Bright Star in our Encounter',
+        img: brightstarinourencounter,
+        url: 'https://tonnon.github.io/bright-star-in-our-encounter/',
         category: ['all', 'website']
     },
     {
