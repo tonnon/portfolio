@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f79f7ab9.chunk.css",
-    "main.js": "/portfolio/static/js/main.c31362af.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c31362af.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c3a7bb7e.chunk.css",
+    "main.js": "/portfolio/static/js/main.adb731e1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.adb731e1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.73a4c372.chunk.js": "/portfolio/static/js/2.73a4c372.chunk.js",
-    "static/js/2.73a4c372.chunk.js.map": "/portfolio/static/js/2.73a4c372.chunk.js.map",
+    "static/js/2.0aaf554b.chunk.js": "/portfolio/static/js/2.0aaf554b.chunk.js",
+    "static/js/2.0aaf554b.chunk.js.map": "/portfolio/static/js/2.0aaf554b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.63eaf3aac795f8d05a68d44b2a71e94e.js": "/portfolio/precache-manifest.63eaf3aac795f8d05a68d44b2a71e94e.js",
+    "precache-manifest.a58ed608921cf690206df7926b979f40.js": "/portfolio/precache-manifest.a58ed608921cf690206df7926b979f40.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
-    "static/css/main.f79f7ab9.chunk.css.map": "/portfolio/static/css/main.f79f7ab9.chunk.css.map",
-    "static/js/2.73a4c372.chunk.js.LICENSE.txt": "/portfolio/static/js/2.73a4c372.chunk.js.LICENSE.txt",
+    "static/css/main.c3a7bb7e.chunk.css.map": "/portfolio/static/css/main.c3a7bb7e.chunk.css.map",
+    "static/js/2.0aaf554b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0aaf554b.chunk.js.LICENSE.txt",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/bethehero.png": "/portfolio/static/media/bethehero.2fe56a97.png",
+    "static/media/brightstarinourencounter.png": "/portfolio/static/media/brightstarinourencounter.c40f108b.png",
     "static/media/brokenglassshapedofaheart.jpg": "/portfolio/static/media/brokenglassshapedofaheart.039b28c2.jpg",
     "static/media/btomec.gif": "/portfolio/static/media/btomec.44dc7889.gif",
     "static/media/calculadora.gif": "/portfolio/static/media/calculadora.e1b60dd1.gif",
@@ -51,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.73a4c372.chunk.js",
-    "static/css/main.f79f7ab9.chunk.css",
-    "static/js/main.c31362af.chunk.js"
+    "static/js/2.0aaf554b.chunk.js",
+    "static/css/main.c3a7bb7e.chunk.css",
+    "static/js/main.adb731e1.chunk.js"
   ]
 }
