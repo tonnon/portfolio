@@ -14,6 +14,7 @@ import eclipsers from '../../assets/bgcards/eclipsers.gif';
 import everydayisaroughtime from '../../assets/bgcards/everydayisaroughtime.gif';
 import experimentaltruchettiles from '../../assets/bgcards/experimentaltruchettiles.png';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
+import golenflameemanatingfromtheinnerlight from '../../assets/bgcards/golenflameemanatingfromtheinnerlight.png';
 import google from '../../assets/bgcards/google.jpeg';
 import hanszimmer from '../../assets/bgcards/hanszimmer.gif';
 import happyhourclub from '../../assets/bgcards/happyhourclub.png';
@@ -132,6 +133,12 @@ let PortfolioList = [
         title: 'Form Template',
         img: formtemplate,
         url: 'https://tonnon.github.io/form-template/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Golden Flame Emanating from the Inner Light',
+        img: golenflameemanatingfromtheinnerlight,
+        url: 'https://tonnon.github.io/golden-flame-emanating-from-the-inner-light/',
         category: ['all', 'website']
     },
     {
