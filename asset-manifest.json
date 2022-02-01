@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c3a7bb7e.chunk.css",
-    "main.js": "/portfolio/static/js/main.adb731e1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.adb731e1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e30ec8b5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e30ec8b5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.0aaf554b.chunk.js": "/portfolio/static/js/2.0aaf554b.chunk.js",
-    "static/js/2.0aaf554b.chunk.js.map": "/portfolio/static/js/2.0aaf554b.chunk.js.map",
+    "static/js/2.beeb2873.chunk.js": "/portfolio/static/js/2.beeb2873.chunk.js",
+    "static/js/2.beeb2873.chunk.js.map": "/portfolio/static/js/2.beeb2873.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.a58ed608921cf690206df7926b979f40.js": "/portfolio/precache-manifest.a58ed608921cf690206df7926b979f40.js",
+    "precache-manifest.ab83779304ddb283e19c5a7fc296bbca.js": "/portfolio/precache-manifest.ab83779304ddb283e19c5a7fc296bbca.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
     "static/css/main.c3a7bb7e.chunk.css.map": "/portfolio/static/css/main.c3a7bb7e.chunk.css.map",
-    "static/js/2.0aaf554b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0aaf554b.chunk.js.LICENSE.txt",
+    "static/js/2.beeb2873.chunk.js.LICENSE.txt": "/portfolio/static/js/2.beeb2873.chunk.js.LICENSE.txt",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/bethehero.png": "/portfolio/static/media/bethehero.2fe56a97.png",
     "static/media/brightstarinourencounter.png": "/portfolio/static/media/brightstarinourencounter.c40f108b.png",
@@ -30,6 +30,7 @@
     "static/media/everydayisaroughtime.gif": "/portfolio/static/media/everydayisaroughtime.7edb7d82.gif",
     "static/media/experimentaltruchettiles.png": "/portfolio/static/media/experimentaltruchettiles.d347302f.png",
     "static/media/formtemplate.gif": "/portfolio/static/media/formtemplate.fccfefdb.gif",
+    "static/media/golenflameemanatingfromtheinnerlight.png": "/portfolio/static/media/golenflameemanatingfromtheinnerlight.12a5add8.png",
     "static/media/hanszimmer.gif": "/portfolio/static/media/hanszimmer.95290a16.gif",
     "static/media/happyhourclub.png": "/portfolio/static/media/happyhourclub.366ededf.png",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.791c6b2c.gif",
@@ -52,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.0aaf554b.chunk.js",
+    "static/js/2.beeb2873.chunk.js",
     "static/css/main.c3a7bb7e.chunk.css",
-    "static/js/main.adb731e1.chunk.js"
+    "static/js/main.e30ec8b5.chunk.js"
   ]
 }
