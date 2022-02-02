@@ -25,6 +25,7 @@ import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.png';
 import looperman from '../../assets/bgcards/looperman.gif';
 import pinterest from '../../assets/bgcards/pinterest.jpeg';
+import powerofthepeople from '../../assets/bgcards/powerofthepeople.png';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
 import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
@@ -193,12 +194,18 @@ let PortfolioList = [
         title: 'The Amazing Looperman',
         img: looperman,
         url: 'https://tonnon.github.io/the-amazing-looperman/',
-        category: ['all', 'website']
+        category: ['all', 'game']
     },
     {
         title: 'Pinterest',
         img: pinterest,
         url: 'https://tonnon.github.io/pinterest/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Power of the People',
+        img: powerofthepeople,
+        url: 'https://tonnon.github.io/powerofthepeople/',
         category: ['all', 'website']
     },
     {
