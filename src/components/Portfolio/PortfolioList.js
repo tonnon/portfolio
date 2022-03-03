@@ -17,6 +17,8 @@ import flapmorty from '../../assets/bgcards/flapmorty.png';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
 import golenflameemanatingfromtheinnerlight from '../../assets/bgcards/golenflameemanatingfromtheinnerlight.png';
 import google from '../../assets/bgcards/google.jpeg';
+import lovelynight from '../../assets/bgcards/lovelynight.png';
+import halloween from '../../assets/bgcards/halloween.png';
 import hanszimmer from '../../assets/bgcards/hanszimmer.gif';
 import happyhourclub from '../../assets/bgcards/happyhourclub.png';
 import helptoner from '../../assets/bgcards/helptoner.gif';
@@ -156,6 +158,12 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
+        title: 'Halloween',
+        img: halloween,
+        url: 'https://tonnon.github.io/halloween/',
+        category: ['all', 'website']
+    },
+    {
         title: 'Hans Zimmer',
         img: hanszimmer,
         url: 'https://tonnon.github.io/hans-zimmer/',
@@ -202,6 +210,12 @@ let PortfolioList = [
         img: looperman,
         url: 'https://tonnon.github.io/the-amazing-looperman/',
         category: ['all', 'game']
+    },
+    {
+        title: 'Lovely Night For Those Two Lucky People',
+        img: lovelynight,
+        url: 'https://tonnon.github.io/lovely-night-for-those-two-lucky-people/',
+        category: ['all', 'website']
     },
     {
         title: 'Pinterest',
