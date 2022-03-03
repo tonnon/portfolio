@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1f1f15abb0318d0421f0c816ad9a77e",
+    "revision": "24f17cf7a15e1a2e7599ff3b1c431ef7",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1bf5e3360db9a2db01ac",
+    "revision": "caa78dde62683565ae67",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "ab18428ee692404b9788",
+    "revision": "902d93a126f5bf3e5832",
     "url": "/portfolio/static/css/main.c3a7bb7e.chunk.css"
   },
   {
-    "revision": "1bf5e3360db9a2db01ac",
-    "url": "/portfolio/static/js/2.65f59107.chunk.js"
+    "revision": "caa78dde62683565ae67",
+    "url": "/portfolio/static/js/2.d270288b.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/portfolio/static/js/2.65f59107.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.d270288b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab18428ee692404b9788",
-    "url": "/portfolio/static/js/main.af509552.chunk.js"
+    "revision": "902d93a126f5bf3e5832",
+    "url": "/portfolio/static/js/main.3b4929b5.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -100,6 +100,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/golenflameemanatingfromtheinnerlight.12a5add8.png"
   },
   {
+    "revision": "bb4824aca58778a3f4286ec2f23e5c2e",
+    "url": "/portfolio/static/media/halloween.bb4824ac.png"
+  },
+  {
     "revision": "95290a16efc63c3751a8f795bbdf7e6f",
     "url": "/portfolio/static/media/hanszimmer.95290a16.gif"
   },
@@ -130,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16639df9250d845333d0dbb8b940c12d",
     "url": "/portfolio/static/media/looperman.16639df9.gif"
+  },
+  {
+    "revision": "3ceaf51907f7f685a1c2d3823660a2c2",
+    "url": "/portfolio/static/media/lovelynight.3ceaf519.png"
   },
   {
     "revision": "410537c640c5808d58f7fcae54fc0758",
