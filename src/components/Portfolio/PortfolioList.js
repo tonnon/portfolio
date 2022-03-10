@@ -27,6 +27,7 @@ import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.png';
 import looperman from '../../assets/bgcards/looperman.gif';
 import lovelynight from '../../assets/bgcards/lovelynight.png';
+import newdawn from '../../assets/bgcards/newdawn.png';
 import particledefense from '../../assets/bgcards/particledefense.png';
 import pinterest from '../../assets/bgcards/pinterest.jpeg';
 import powerofthepeople from '../../assets/bgcards/powerofthepeople.png';
@@ -216,6 +217,12 @@ let PortfolioList = [
         title: 'Lovely Night For Those Two Lucky People',
         img: lovelynight,
         url: 'https://tonnon.github.io/lovely-night-for-those-two-lucky-people/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'New Dawn',
+        img: newdawn,
+        url: 'https://tonnon.github.io/new-dawn/',
         category: ['all', 'website']
     },
     {
