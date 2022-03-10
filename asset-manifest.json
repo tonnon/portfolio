@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c3a7bb7e.chunk.css",
-    "main.js": "/portfolio/static/js/main.4cc3e9bd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4cc3e9bd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3c455d36.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3c455d36.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.31aee872.chunk.js": "/portfolio/static/js/2.31aee872.chunk.js",
-    "static/js/2.31aee872.chunk.js.map": "/portfolio/static/js/2.31aee872.chunk.js.map",
+    "static/js/2.ef24ac07.chunk.js": "/portfolio/static/js/2.ef24ac07.chunk.js",
+    "static/js/2.ef24ac07.chunk.js.map": "/portfolio/static/js/2.ef24ac07.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.856d420c8aea7ef0a05e0ffd8818d201.js": "/portfolio/precache-manifest.856d420c8aea7ef0a05e0ffd8818d201.js",
+    "precache-manifest.06a4d31824ff70c26cb8335ba1ec8721.js": "/portfolio/precache-manifest.06a4d31824ff70c26cb8335ba1ec8721.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
     "static/css/main.c3a7bb7e.chunk.css.map": "/portfolio/static/css/main.c3a7bb7e.chunk.css.map",
-    "static/js/2.31aee872.chunk.js.LICENSE.txt": "/portfolio/static/js/2.31aee872.chunk.js.LICENSE.txt",
+    "static/js/2.ef24ac07.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ef24ac07.chunk.js.LICENSE.txt",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/bethehero.png": "/portfolio/static/media/bethehero.2fe56a97.png",
     "static/media/brightstarinourencounter.png": "/portfolio/static/media/brightstarinourencounter.c40f108b.png",
@@ -42,6 +42,7 @@
     "static/media/letmeask.png": "/portfolio/static/media/letmeask.e1808d90.png",
     "static/media/looperman.gif": "/portfolio/static/media/looperman.16639df9.gif",
     "static/media/lovelynight.png": "/portfolio/static/media/lovelynight.3ceaf519.png",
+    "static/media/newdawn.png": "/portfolio/static/media/newdawn.7c40c348.png",
     "static/media/powerofthepeople.png": "/portfolio/static/media/powerofthepeople.410537c6.png",
     "static/media/rickandmorty.gif": "/portfolio/static/media/rickandmorty.5675f1de.gif",
     "static/media/soundtracker.gif": "/portfolio/static/media/soundtracker.cbde970c.gif",
@@ -57,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.31aee872.chunk.js",
+    "static/js/2.ef24ac07.chunk.js",
     "static/css/main.c3a7bb7e.chunk.css",
-    "static/js/main.4cc3e9bd.chunk.js"
+    "static/js/main.3c455d36.chunk.js"
   ]
 }
