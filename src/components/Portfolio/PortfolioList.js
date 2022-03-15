@@ -1,5 +1,6 @@
 import adidas from '../../assets/bgcards/adidas.jpg';
 import alongnight from '../../assets/bgcards/alongnight.gif';
+import amongus from '../../assets/bgcards/amongus.jpg';
 import bethehero from '../../assets/bgcards/bethehero.png';
 import brightstarinourencounter from '../../assets/bgcards/brightstarinourencounter.png';
 import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofaheart.jpg';
@@ -55,6 +56,12 @@ let PortfolioList = [
         title: 'A Long Night',
         img: alongnight,
         url: 'https://scratch.mit.edu/projects/239451175',
+        category: ['all', 'game']
+    },
+    {
+        title: 'Among Us: Start Reactor Mini Game',
+        img: amongus,
+        url: 'https://tonnon.github.io/among-us-start-reactor-mini-game/',
         category: ['all', 'game']
     },
     {
