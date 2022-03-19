@@ -24,6 +24,7 @@ import happyhourclub from '../../assets/bgcards/happyhourclub.png';
 import helptoner from '../../assets/bgcards/helptoner.gif';
 import hihowareyou from '../../assets/bgcards/hihowareyou.jpg';
 import illuminati from '../../assets/bgcards/illuminati.gif';
+import individualandcollectivetimeellipsis from '../../assets/bgcards/individual-and-collective-time-ellipsis.png';
 import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.png';
 import looperman from '../../assets/bgcards/looperman.gif';
@@ -201,6 +202,12 @@ let PortfolioList = [
         img: illuminati,
         url: 'https://tonnon.github.io/illuminati-new-world-order-online/',
         category: ['all', 'game']
+    },
+    {
+        title: 'Individual and Collective Time Ellipsis',
+        img: individualandcollectivetimeellipsis,
+        url: 'https://tonnon.github.io/individual-and-collective-time-ellipsis/',
+        category: ['all', 'website']
     },
     {
         title: 'Led Zeppelin',
