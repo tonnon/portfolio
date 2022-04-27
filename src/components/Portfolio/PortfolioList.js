@@ -44,6 +44,7 @@ import vercel from '../../assets/bgcards/vercel.jpg';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import walkingdead from '../../assets/bgcards/walkingdead.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
+import wavesofjoy from '../../assets/bgcards/wavesofjoy.png';
 import wormhole from '../../assets/bgcards/wormhole.gif';
 
 let PortfolioList = [
@@ -322,6 +323,12 @@ let PortfolioList = [
         img: waroftheworlds,
         url: 'https://tonnon.github.io/war-of-the-worlds/',
         category: ['all', 'game']
+    },
+    {
+        title: 'Waves of Joy',
+        img: wavesofjoy,
+        url: 'https://tonnon.github.io/waves-of-joy/',
+        category: ['all', 'website']
     },
     {
         title: 'A Filosofia da Viagem no Tempo',
