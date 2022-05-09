@@ -14,6 +14,7 @@ import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
 import eclipsers from '../../assets/bgcards/eclipsers.gif';
 import everydayisaroughtime from '../../assets/bgcards/everydayisaroughtime.gif';
 import experimentaltruchettiles from '../../assets/bgcards/experimentaltruchettiles.png';
+import feedbackwidget from '../../assets/bgcards/feedbackwidget.png';
 import flapmorty from '../../assets/bgcards/flapmorty.png';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
 import golenflameemanatingfromtheinnerlight from '../../assets/bgcards/golenflameemanatingfromtheinnerlight.png';
@@ -46,6 +47,7 @@ import walkingdead from '../../assets/bgcards/walkingdead.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
 import wavesofjoy from '../../assets/bgcards/wavesofjoy.png';
 import wormhole from '../../assets/bgcards/wormhole.gif';
+
 
 let PortfolioList = [
     {
@@ -142,6 +144,12 @@ let PortfolioList = [
         title: 'Experimental Truchet Tiles',
         img: experimentaltruchettiles,
         url: 'https://tonnon.github.io/experimental-truchet-tiles/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Feedback Widget',
+        img: feedbackwidget,
+        url: 'https://tonnon.github.io/feedback-widget/',
         category: ['all', 'website']
     },
     {
