@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cc7d23dc45d0efe4786e0f0b0feba81",
+    "revision": "93061de09dae5d1012bb0218f1cb77cf",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "256dc42229201bb2a525",
+    "revision": "451a17e9960d4a775fc8",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "964cccdc566cac99097a",
+    "revision": "55f39851d274e5f60f3a",
     "url": "/portfolio/static/css/main.c3a7bb7e.chunk.css"
   },
   {
-    "revision": "256dc42229201bb2a525",
-    "url": "/portfolio/static/js/2.fbfa3461.chunk.js"
+    "revision": "451a17e9960d4a775fc8",
+    "url": "/portfolio/static/js/2.d1ec502e.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/portfolio/static/js/2.fbfa3461.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.d1ec502e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "964cccdc566cac99097a",
-    "url": "/portfolio/static/js/main.ff43727c.chunk.js"
+    "revision": "55f39851d274e5f60f3a",
+    "url": "/portfolio/static/js/main.4915d030.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d347302fa80f1386598673367d8bf40f",
     "url": "/portfolio/static/media/experimentaltruchettiles.d347302f.png"
+  },
+  {
+    "revision": "65df603e48561252af9cc12035c7ed52",
+    "url": "/portfolio/static/media/feedbackwidget.65df603e.png"
   },
   {
     "revision": "264a74620325b55b3f30996b605e989c",
@@ -186,6 +190,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4f7b08aa3d598c09f9a228ecaeb59cbf",
     "url": "/portfolio/static/media/war-of-the-worlds.4f7b08aa.gif"
+  },
+  {
+    "revision": "67965a9a0dec49d97d52c51e2da916fb",
+    "url": "/portfolio/static/media/wavesofjoy.67965a9a.png"
   },
   {
     "revision": "b81b8c78a0f867d240aef469c0f670c1",
