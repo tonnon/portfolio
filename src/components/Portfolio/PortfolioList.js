@@ -7,6 +7,7 @@ import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofa
 import btocmec from '../../assets/bgcards/btomec.gif';
 import calculadora from '../../assets/bgcards/calculadora.gif';
 import cardapio from '../../assets/bgcards/cardapio.gif';
+import companionofthesevenspaceships from '../../assets/bgcards/companionofthesevenspaceships.png';
 import cyberpool from '../../assets/bgcards/cyberpool.png';
 import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
@@ -96,6 +97,12 @@ let PortfolioList = [
         title: 'Calculadora',
         img: calculadora,
         url: 'https://tonnon.github.io/calculadora/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Companion of the Seven Spaceships',
+        img: companionofthesevenspaceships,
+        url: 'https://tonnon.github.io/companion-of-the-seven-spaceships/',
         category: ['all', 'website']
     },
     {
