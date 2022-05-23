@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93061de09dae5d1012bb0218f1cb77cf",
+    "revision": "46c277708f3f5d82fe59e7679e791f89",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "451a17e9960d4a775fc8",
+    "revision": "88ec300b976db9a6ac50",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "55f39851d274e5f60f3a",
+    "revision": "52f8bbcccd2ff8fa05e9",
     "url": "/portfolio/static/css/main.c3a7bb7e.chunk.css"
   },
   {
-    "revision": "451a17e9960d4a775fc8",
-    "url": "/portfolio/static/js/2.d1ec502e.chunk.js"
+    "revision": "88ec300b976db9a6ac50",
+    "url": "/portfolio/static/js/2.98efbd7e.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/portfolio/static/js/2.d1ec502e.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.98efbd7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55f39851d274e5f60f3a",
-    "url": "/portfolio/static/js/main.4915d030.chunk.js"
+    "revision": "52f8bbcccd2ff8fa05e9",
+    "url": "/portfolio/static/js/main.981d5987.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e55c6a3a5ee76a0fc49cde6109e9fdcf",
     "url": "/portfolio/static/media/cardapio.e55c6a3a.gif"
+  },
+  {
+    "revision": "f1c80101a0256bca9a27aa181c4c04d5",
+    "url": "/portfolio/static/media/companionofthesevenspaceships.f1c80101.png"
   },
   {
     "revision": "0e979812d02bf180aeb9d232853c000a",
