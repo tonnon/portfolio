@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46c277708f3f5d82fe59e7679e791f89",
+    "revision": "7ea23854db6c3a26d2b46653630478c7",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "52f8bbcccd2ff8fa05e9",
+    "revision": "012385809bef23467449",
     "url": "/portfolio/static/css/main.c3a7bb7e.chunk.css"
   },
   {
@@ -20,28 +20,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.98efbd7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52f8bbcccd2ff8fa05e9",
-    "url": "/portfolio/static/js/main.981d5987.chunk.js"
+    "revision": "012385809bef23467449",
+    "url": "/portfolio/static/js/main.c8606a63.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
+    "revision": "0fba7b5084d0d574d44f30e5e2051e8f",
+    "url": "/portfolio/static/media/adidas.0fba7b50.webp"
+  },
+  {
     "revision": "ee5f2ad3c524da9975ada75a176bb7bd",
     "url": "/portfolio/static/media/alongnight.ee5f2ad3.gif"
   },
   {
-    "revision": "2fe56a97e703be8d5d7073fccdef09be",
-    "url": "/portfolio/static/media/bethehero.2fe56a97.png"
+    "revision": "ac5bc2edd956d9f6ec908c6841e3e413",
+    "url": "/portfolio/static/media/amongus.ac5bc2ed.webp"
   },
   {
-    "revision": "c40f108b3816cc76f5326c5871e21bda",
-    "url": "/portfolio/static/media/brightstarinourencounter.c40f108b.png"
+    "revision": "6ed952f2d9dcb0665fa98d65caa781e3",
+    "url": "/portfolio/static/media/bethehero.6ed952f2.webp"
   },
   {
-    "revision": "039b28c27659df3be5c8ee4eb59676f3",
-    "url": "/portfolio/static/media/brokenglassshapedofaheart.039b28c2.jpg"
+    "revision": "6a9d22591d7ac815aab97be137c73b98",
+    "url": "/portfolio/static/media/brightstarinourencounter.6a9d2259.webp"
+  },
+  {
+    "revision": "c60b0f152bb83ec9643965564abeca0b",
+    "url": "/portfolio/static/media/brokenglassshapedofaheart.c60b0f15.webp"
   },
   {
     "revision": "44dc7889c5b55dac425ac4c09f63fa4a",
@@ -56,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/cardapio.e55c6a3a.gif"
   },
   {
-    "revision": "f1c80101a0256bca9a27aa181c4c04d5",
-    "url": "/portfolio/static/media/companionofthesevenspaceships.f1c80101.png"
+    "revision": "0ed7b55c13f02dee73d6ac4d77c35f7d",
+    "url": "/portfolio/static/media/companionofthesevenspaceships.0ed7b55c.webp"
   },
   {
     "revision": "0e979812d02bf180aeb9d232853c000a",
     "url": "/portfolio/static/media/cv-tonon.0e979812.pdf"
   },
   {
-    "revision": "fd8b8c500d27b5eb65c0dd1c7cf29f26",
-    "url": "/portfolio/static/media/cyberpool.fd8b8c50.png"
+    "revision": "6ebe20bd08af4467cf1b7aca795c910e",
+    "url": "/portfolio/static/media/cyberpool.6ebe20bd.webp"
   },
   {
     "revision": "b3963d2944952d37ce4b6f110fe58556",
@@ -88,76 +96,88 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/everydayisaroughtime.7edb7d82.gif"
   },
   {
-    "revision": "d347302fa80f1386598673367d8bf40f",
-    "url": "/portfolio/static/media/experimentaltruchettiles.d347302f.png"
+    "revision": "29db54d3ca5e2e033f1b4aa928ae6a2c",
+    "url": "/portfolio/static/media/experimentaltruchettiles.29db54d3.webp"
   },
   {
-    "revision": "65df603e48561252af9cc12035c7ed52",
-    "url": "/portfolio/static/media/feedbackwidget.65df603e.png"
+    "revision": "0e5ac3979eec7511d0ab261f257a885a",
+    "url": "/portfolio/static/media/feedbackwidget.0e5ac397.webp"
   },
   {
-    "revision": "264a74620325b55b3f30996b605e989c",
-    "url": "/portfolio/static/media/flapmorty.264a7462.png"
+    "revision": "9f8ef50c00129824eb470b7ebf727399",
+    "url": "/portfolio/static/media/flapmorty.9f8ef50c.webp"
   },
   {
     "revision": "fccfefdbb0843e2f1fc92614ca54bc3a",
     "url": "/portfolio/static/media/formtemplate.fccfefdb.gif"
   },
   {
-    "revision": "12a5add89072a4b61e7955f3264353bf",
-    "url": "/portfolio/static/media/golenflameemanatingfromtheinnerlight.12a5add8.png"
+    "revision": "79beee90b9f2c1978c05ecf07f884e73",
+    "url": "/portfolio/static/media/golenflameemanatingfromtheinnerlight.79beee90.webp"
   },
   {
-    "revision": "bb4824aca58778a3f4286ec2f23e5c2e",
-    "url": "/portfolio/static/media/halloween.bb4824ac.png"
+    "revision": "3c1a2e2e53ef1f0e3017c79af7829e07",
+    "url": "/portfolio/static/media/google.3c1a2e2e.webp"
+  },
+  {
+    "revision": "ef5cf6ee952de7a36e276e7e17c3eaa2",
+    "url": "/portfolio/static/media/halloween.ef5cf6ee.webp"
   },
   {
     "revision": "95290a16efc63c3751a8f795bbdf7e6f",
     "url": "/portfolio/static/media/hanszimmer.95290a16.gif"
   },
   {
-    "revision": "366ededf6d812eca92dc75c29f0a3131",
-    "url": "/portfolio/static/media/happyhourclub.366ededf.png"
+    "revision": "fadacf3878a3531809dfa7019da3c7ab",
+    "url": "/portfolio/static/media/happyhourclub.fadacf38.webp"
   },
   {
     "revision": "791c6b2c099ae9bcbb20db6d593f3f98",
     "url": "/portfolio/static/media/helptoner.791c6b2c.gif"
   },
   {
-    "revision": "6cad222c68828ad088f40c0f87cb85dd",
-    "url": "/portfolio/static/media/hihowareyou.6cad222c.jpg"
+    "revision": "d3242bfb980cb62e9053dbc23609e960",
+    "url": "/portfolio/static/media/hihowareyou.d3242bfb.webp"
   },
   {
     "revision": "24552a41c4a80d0fdc99c52f3cc4cc5a",
     "url": "/portfolio/static/media/illuminati.24552a41.gif"
   },
   {
-    "revision": "1fde1763aabfd4b0b094ace08870f553",
-    "url": "/portfolio/static/media/individual-and-collective-time-ellipsis.1fde1763.png"
+    "revision": "66254997ceda3624b6f13fe4a2e89ff9",
+    "url": "/portfolio/static/media/invidualandcollectivetimeellipsis.66254997.webp"
   },
   {
     "revision": "bf086a326f68dda1538ca11c87f2d9cf",
     "url": "/portfolio/static/media/ledzeppelin.bf086a32.gif"
   },
   {
-    "revision": "e1808d90ce9cc7f2ad9f490b05f123e8",
-    "url": "/portfolio/static/media/letmeask.e1808d90.png"
+    "revision": "31c86ef37e374dd0a1d7f7cf3a873fb8",
+    "url": "/portfolio/static/media/letmeask.31c86ef3.webp"
   },
   {
     "revision": "16639df9250d845333d0dbb8b940c12d",
     "url": "/portfolio/static/media/looperman.16639df9.gif"
   },
   {
-    "revision": "3ceaf51907f7f685a1c2d3823660a2c2",
-    "url": "/portfolio/static/media/lovelynight.3ceaf519.png"
+    "revision": "ad261ed40c5501d50d5ed98d0612ba0a",
+    "url": "/portfolio/static/media/lovelynight.ad261ed4.webp"
   },
   {
-    "revision": "7c40c348af01ad6a9922810853fa6b61",
-    "url": "/portfolio/static/media/newdawn.7c40c348.png"
+    "revision": "4bd88d0953dd5a1448445addcb57deb1",
+    "url": "/portfolio/static/media/newdawn.4bd88d09.webp"
   },
   {
-    "revision": "410537c640c5808d58f7fcae54fc0758",
-    "url": "/portfolio/static/media/powerofthepeople.410537c6.png"
+    "revision": "ae803e2e299d13f37f6ea88863f17818",
+    "url": "/portfolio/static/media/particledefense.ae803e2e.webp"
+  },
+  {
+    "revision": "15227431022cad546ff28fc4e7866466",
+    "url": "/portfolio/static/media/pinterest.15227431.webp"
+  },
+  {
+    "revision": "1a508b8553901dddc54c77eb5bd576b5",
+    "url": "/portfolio/static/media/powerofthepeople.1a508b85.webp"
   },
   {
     "revision": "5675f1de5c4f33d4eb9bc6860a9b0294",
@@ -172,16 +192,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/spaceoddysey.94218f57.gif"
   },
   {
-    "revision": "a5a5f7716cdcf52fbe4990373ab71b42",
-    "url": "/portfolio/static/media/splitmind.a5a5f771.jpg"
+    "revision": "1866e3b6dda0cd6949f8378e29e3dbad",
+    "url": "/portfolio/static/media/splitmind.1866e3b6.webp"
   },
   {
-    "revision": "64268d81c60d5c28594c1dcc889b5955",
-    "url": "/portfolio/static/media/thingsthatialwayswantedsaytoyou.64268d81.png"
+    "revision": "af7af1e5b1b63159f9109d8feacd6838",
+    "url": "/portfolio/static/media/thingsthatialwayswantedsaytoyou.af7af1e5.webp"
   },
   {
-    "revision": "419754092cebaa0e17eaa98e48b13975",
-    "url": "/portfolio/static/media/universal-law-of-love.41975409.jpg"
+    "revision": "e55fe93a8673a86d09b3e1bd98862f13",
+    "url": "/portfolio/static/media/truthdealer.e55fe93a.webp"
+  },
+  {
+    "revision": "433ad87f0122d5fe7a8503e23f403cd4",
+    "url": "/portfolio/static/media/universal-law-of-love.433ad87f.webp"
+  },
+  {
+    "revision": "70bdec17c804934006dd8cb95c08bf94",
+    "url": "/portfolio/static/media/vercel.70bdec17.webp"
   },
   {
     "revision": "d5e36dee05aca85884d0f09c3fd474ce",
@@ -196,8 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/war-of-the-worlds.4f7b08aa.gif"
   },
   {
-    "revision": "67965a9a0dec49d97d52c51e2da916fb",
-    "url": "/portfolio/static/media/wavesofjoy.67965a9a.png"
+    "revision": "5cb2d65138c28e3c089656ecabbb1868",
+    "url": "/portfolio/static/media/wavesofjoy.5cb2d651.webp"
   },
   {
     "revision": "b81b8c78a0f867d240aef469c0f670c1",
