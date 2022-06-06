@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ea23854db6c3a26d2b46653630478c7",
+    "revision": "0e71034a56567216434f348e22966180",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "88ec300b976db9a6ac50",
+    "revision": "bf91e839d547e804e3b6",
     "url": "/portfolio/static/css/2.9905d55a.chunk.css"
   },
   {
-    "revision": "012385809bef23467449",
-    "url": "/portfolio/static/css/main.c3a7bb7e.chunk.css"
+    "revision": "8c0860cdfa681a535f31",
+    "url": "/portfolio/static/css/main.361ed3d3.chunk.css"
   },
   {
-    "revision": "88ec300b976db9a6ac50",
-    "url": "/portfolio/static/js/2.98efbd7e.chunk.js"
+    "revision": "bf91e839d547e804e3b6",
+    "url": "/portfolio/static/js/2.f93941ed.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/portfolio/static/js/2.98efbd7e.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.f93941ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "012385809bef23467449",
-    "url": "/portfolio/static/js/main.c8606a63.chunk.js"
+    "revision": "8c0860cdfa681a535f31",
+    "url": "/portfolio/static/js/main.760cf8d0.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -66,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ed7b55c13f02dee73d6ac4d77c35f7d",
     "url": "/portfolio/static/media/companionofthesevenspaceships.0ed7b55c.webp"
-  },
-  {
-    "revision": "0e979812d02bf180aeb9d232853c000a",
-    "url": "/portfolio/static/media/cv-tonon.0e979812.pdf"
   },
   {
     "revision": "6ebe20bd08af4467cf1b7aca795c910e",
@@ -230,5 +226,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b81b8c78a0f867d240aef469c0f670c1",
     "url": "/portfolio/static/media/wormhole.b81b8c78.gif"
+  },
+  {
+    "revision": "f6e455158e226c42703ee16e63905730",
+    "url": "/portfolio/static/media/youshinelikefireworksonthisemptytown.f6e45515.webp"
   }
 ]);

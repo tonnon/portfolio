@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c3a7bb7e.chunk.css",
-    "main.js": "/portfolio/static/js/main.c8606a63.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c8606a63.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.361ed3d3.chunk.css",
+    "main.js": "/portfolio/static/js/main.760cf8d0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.760cf8d0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.98efbd7e.chunk.js": "/portfolio/static/js/2.98efbd7e.chunk.js",
-    "static/js/2.98efbd7e.chunk.js.map": "/portfolio/static/js/2.98efbd7e.chunk.js.map",
+    "static/js/2.f93941ed.chunk.js": "/portfolio/static/js/2.f93941ed.chunk.js",
+    "static/js/2.f93941ed.chunk.js.map": "/portfolio/static/js/2.f93941ed.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.5cfc9d8ce4e73203c4f8fe3cbb414465.js": "/portfolio/precache-manifest.5cfc9d8ce4e73203c4f8fe3cbb414465.js",
+    "precache-manifest.00fef3635dd3d695a2fae76428311df6.js": "/portfolio/precache-manifest.00fef3635dd3d695a2fae76428311df6.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
-    "static/css/main.c3a7bb7e.chunk.css.map": "/portfolio/static/css/main.c3a7bb7e.chunk.css.map",
-    "static/js/2.98efbd7e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.98efbd7e.chunk.js.LICENSE.txt",
+    "static/css/main.361ed3d3.chunk.css.map": "/portfolio/static/css/main.361ed3d3.chunk.css.map",
+    "static/js/2.f93941ed.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f93941ed.chunk.js.LICENSE.txt",
     "static/media/adidas.webp": "/portfolio/static/media/adidas.0fba7b50.webp",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/amongus.webp": "/portfolio/static/media/amongus.ac5bc2ed.webp",
@@ -24,7 +24,6 @@
     "static/media/calculadora.gif": "/portfolio/static/media/calculadora.e1b60dd1.gif",
     "static/media/cardapio.gif": "/portfolio/static/media/cardapio.e55c6a3a.gif",
     "static/media/companionofthesevenspaceships.webp": "/portfolio/static/media/companionofthesevenspaceships.0ed7b55c.webp",
-    "static/media/cv-tonon.pdf": "/portfolio/static/media/cv-tonon.0e979812.pdf",
     "static/media/cyberpool.webp": "/portfolio/static/media/cyberpool.6ebe20bd.webp",
     "static/media/cybertetromino.gif": "/portfolio/static/media/cybertetromino.b3963d29.gif",
     "static/media/deadgods.gif": "/portfolio/static/media/deadgods.4e2a21a3.gif",
@@ -64,13 +63,14 @@
     "static/media/walkingdead.gif": "/portfolio/static/media/walkingdead.c5f4f4a9.gif",
     "static/media/war-of-the-worlds.gif": "/portfolio/static/media/war-of-the-worlds.4f7b08aa.gif",
     "static/media/wavesofjoy.webp": "/portfolio/static/media/wavesofjoy.5cb2d651.webp",
-    "static/media/wormhole.gif": "/portfolio/static/media/wormhole.b81b8c78.gif"
+    "static/media/wormhole.gif": "/portfolio/static/media/wormhole.b81b8c78.gif",
+    "static/media/youshinelikefireworksonthisemptytown.webp": "/portfolio/static/media/youshinelikefireworksonthisemptytown.f6e45515.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.98efbd7e.chunk.js",
-    "static/css/main.c3a7bb7e.chunk.css",
-    "static/js/main.c8606a63.chunk.js"
+    "static/js/2.f93941ed.chunk.js",
+    "static/css/main.361ed3d3.chunk.css",
+    "static/js/main.760cf8d0.chunk.js"
   ]
 }
