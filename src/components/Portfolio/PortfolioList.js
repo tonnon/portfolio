@@ -48,7 +48,7 @@ import walkingdead from '../../assets/bgcards/walkingdead.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
 import wavesofjoy from '../../assets/bgcards/wavesofjoy.webp';
 import wormhole from '../../assets/bgcards/wormhole.gif';
-
+import youshinelikefireworksonthisemptytown from '../../assets/bgcards/youshinelikefireworksonthisemptytown.webp';
 
 let PortfolioList = [
     {
@@ -349,6 +349,12 @@ let PortfolioList = [
         title: 'A Filosofia da Viagem no Tempo',
         img: wormhole,
         url: 'https://tonnon.github.io/wormhole/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'You Shine Like Fireworks on this Empty Town',
+        img: youshinelikefireworksonthisemptytown,
+        url: 'https://tonnon.github.io/you-shine-like-fireworks-on-this-empty-town/',
         category: ['all', 'website']
     },
 ];

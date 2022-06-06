@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Loader from './components/Loader/Loader';
+/* import Loader from './components/Loader/Loader'; */
 import Background from './components/Background/Background';
-import Navbar from './components/Navbar/Navbar';
+/* import Navbar from './components/Navbar/Navbar'; */
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
@@ -13,9 +13,9 @@ import './styles/_colors.sass';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Loader />
+{/*     <Loader /> */}
     <Background />
-    <Navbar/>
+{/*     <Navbar/> */}
     <Portfolio/>
     <Contact/>
     <Footer/>
