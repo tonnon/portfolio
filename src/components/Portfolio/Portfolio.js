@@ -12,6 +12,9 @@ import './portfolio.sass';
 function Portfolio() {
     const [filter, setFilter] = useState('all');
     const [projects, setProjects] = useState([]);
+    const [itemsToShow, setItemsToShow] = useState(18);
+
+    const slice = projects.slice(0, itemsToShow);
 
     function shuffle(arra1) {
         var ctr = arra1.length,
@@ -32,6 +35,16 @@ function Portfolio() {
         const filtered = portfolio.map(p => ({ ...p, filtered: p.category.includes(filter)}));
         setProjects(filtered);
       }, [filter], []);
+
+      useEffect(() => {
+        const observer = new IntersectionObserver((entries) => {
+            if (entries.some(entry => entry.isIntersecting)) {
+                setItemsToShow(itemsToShow + 1) 
+            }
+        });
+        observer.observe(document.getElementById('sentinal'));
+        return () => observer.disconnect();
+      })
 
     return (
         <div>
@@ -63,7 +76,7 @@ function Portfolio() {
                 </div>
             </div>
             <div id="portfolio">
-                {projects.map(project => project.filtered === true ? (
+                {slice.map(project => project.filtered === true ? (
                     <FadeIn key={project.title}>
                         <div  className="card-wrap">
                             <a target="_blank" rel="noopener noreferrer" href={project.url}>
@@ -77,6 +90,9 @@ function Portfolio() {
                         </div> 
                     </FadeIn>            
                 ) : '' )}
+                <div id="sentinal">
+                    Sentinela
+                </div>
             </div>
         </div>
     );
