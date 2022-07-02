@@ -39,12 +39,12 @@ function Portfolio() {
       useEffect(() => {
         const observer = new IntersectionObserver((entries) => {
             if (entries.some(entry => entry.isIntersecting)) {
-                setItemsToShow(itemsToShow + 1) 
+                setItemsToShow(itemsToShow + 18) 
             }
         });
         observer.observe(document.getElementById('sentinal'));
         return () => observer.disconnect();
-      })
+      });
 
     return (
         <div>

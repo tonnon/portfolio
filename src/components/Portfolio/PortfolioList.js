@@ -13,6 +13,7 @@ import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
 import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
 import eclipsers from '../../assets/bgcards/eclipsers.gif';
+import eventplataform from '../../assets/bgcards/eventplataform.webp';
 import everydayisaroughtime from '../../assets/bgcards/everydayisaroughtime.gif';
 import experimentaltruchettiles from '../../assets/bgcards/experimentaltruchettiles.webp';
 import feedbackwidget from '../../assets/bgcards/feedbackwidget.webp';
@@ -139,6 +140,12 @@ let PortfolioList = [
         title: 'Eclipsers',
         img: eclipsers,
         url: 'https://tonnon.github.io/eclipsers/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Event Plataform',
+        img: eventplataform,
+        url: 'https://tonnon.github.io/event-plataform/',
         category: ['all', 'website']
     },
     {
