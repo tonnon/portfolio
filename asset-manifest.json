@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.361ed3d3.chunk.css",
-    "main.js": "/portfolio/static/js/main.f0085ca9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f0085ca9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.54b46ac3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.54b46ac3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.9905d55a.chunk.css": "/portfolio/static/css/2.9905d55a.chunk.css",
-    "static/js/2.f93941ed.chunk.js": "/portfolio/static/js/2.f93941ed.chunk.js",
-    "static/js/2.f93941ed.chunk.js.map": "/portfolio/static/js/2.f93941ed.chunk.js.map",
+    "static/js/2.edd666c0.chunk.js": "/portfolio/static/js/2.edd666c0.chunk.js",
+    "static/js/2.edd666c0.chunk.js.map": "/portfolio/static/js/2.edd666c0.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.de9e898f19eb73568b3e53b696a3ff8c.js": "/portfolio/precache-manifest.de9e898f19eb73568b3e53b696a3ff8c.js",
+    "precache-manifest.c9b1137286fb8ee40870c587c30284b7.js": "/portfolio/precache-manifest.c9b1137286fb8ee40870c587c30284b7.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.9905d55a.chunk.css.map": "/portfolio/static/css/2.9905d55a.chunk.css.map",
     "static/css/main.361ed3d3.chunk.css.map": "/portfolio/static/css/main.361ed3d3.chunk.css.map",
-    "static/js/2.f93941ed.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f93941ed.chunk.js.LICENSE.txt",
+    "static/js/2.edd666c0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.edd666c0.chunk.js.LICENSE.txt",
     "static/media/adidas.webp": "/portfolio/static/media/adidas.0fba7b50.webp",
     "static/media/alongnight.gif": "/portfolio/static/media/alongnight.ee5f2ad3.gif",
     "static/media/amongus.webp": "/portfolio/static/media/amongus.ac5bc2ed.webp",
@@ -29,6 +29,7 @@
     "static/media/deadgods.gif": "/portfolio/static/media/deadgods.4e2a21a3.gif",
     "static/media/deusesastronautas.gif": "/portfolio/static/media/deusesastronautas.e0d8d24a.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.1729d9b9.gif",
+    "static/media/eventplataform.webp": "/portfolio/static/media/eventplataform.11602b5d.webp",
     "static/media/everydayisaroughtime.gif": "/portfolio/static/media/everydayisaroughtime.7edb7d82.gif",
     "static/media/experimentaltruchettiles.webp": "/portfolio/static/media/experimentaltruchettiles.29db54d3.webp",
     "static/media/feedbackwidget.webp": "/portfolio/static/media/feedbackwidget.0e5ac397.webp",
@@ -69,8 +70,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.9905d55a.chunk.css",
-    "static/js/2.f93941ed.chunk.js",
+    "static/js/2.edd666c0.chunk.js",
     "static/css/main.361ed3d3.chunk.css",
-    "static/js/main.f0085ca9.chunk.js"
+    "static/js/main.54b46ac3.chunk.js"
   ]
 }
