@@ -90,9 +90,7 @@ function Portfolio() {
                         </div> 
                     </FadeIn>            
                 ) : '' )}
-                <div id="sentinal">
-                    Sentinela
-                </div>
+                <div id="sentinal"/>
             </div>
         </div>
     );

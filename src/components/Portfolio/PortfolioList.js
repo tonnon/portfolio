@@ -32,6 +32,7 @@ import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.webp';
 import looperman from '../../assets/bgcards/looperman.gif';
 import lovelynight from '../../assets/bgcards/lovelynight.webp';
+import mygraphiccardwontstopscreaming from '../../assets/bgcards/mygraphiccardwontstopscreaming.webp'
 import newdawn from '../../assets/bgcards/newdawn.webp';
 import particledefense from '../../assets/bgcards/particledefense.webp';
 import pinterest from '../../assets/bgcards/pinterest.webp';
@@ -254,6 +255,13 @@ let PortfolioList = [
         title: 'Lovely Night For Those Two Lucky People',
         img: lovelynight,
         url: 'https://tonnon.github.io/lovely-night-for-those-two-lucky-people/',
+        category: ['all', 'website']
+    },
+    
+    {
+        title: 'My Graphic Card Wont Stop Screaming',
+        img: mygraphiccardwontstopscreaming,
+        url: 'https://tonnon.github.io/my-graphic-card-wont-stop-screaming/',
         category: ['all', 'website']
     },
     {
