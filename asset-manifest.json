@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8497030b.css",
-    "main.js": "/portfolio/static/js/main.3cabdc42.js",
+    "main.js": "/portfolio/static/js/main.c6f954dc.js",
     "static/media/walkingdead.gif": "/portfolio/static/media/walkingdead.7fc32902d951c0606ea3.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.8bfa4688c5db1e48f1f0.gif",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.8e9008f1c315b3e912cc.gif",
@@ -47,6 +47,7 @@
     "static/media/pinterest.webp": "/portfolio/static/media/pinterest.cdd3b6aae6f6a0664f48.webp",
     "static/media/amongus.webp": "/portfolio/static/media/amongus.4e515941cb67e509cd88.webp",
     "static/media/lovelynight.webp": "/portfolio/static/media/lovelynight.d76dd86e6985d8acac16.webp",
+    "static/media/beings-of-great-consciousness-and-love.webp": "/portfolio/static/media/beings-of-great-consciousness-and-love.c6660bed1af1a6fc77f1.webp",
     "static/media/feedbackwidget.webp": "/portfolio/static/media/feedbackwidget.625b632e8e8457d7e454.webp",
     "static/media/cyberpool.webp": "/portfolio/static/media/cyberpool.bd68d9ae0787d014b640.webp",
     "static/media/truthdealer.webp": "/portfolio/static/media/truthdealer.2f65c767f8af2df52620.webp",
@@ -57,10 +58,10 @@
     "static/media/vercel.webp": "/portfolio/static/media/vercel.871c26d5e0a2f022430d.webp",
     "index.html": "/portfolio/index.html",
     "main.8497030b.css.map": "/portfolio/static/css/main.8497030b.css.map",
-    "main.3cabdc42.js.map": "/portfolio/static/js/main.3cabdc42.js.map"
+    "main.c6f954dc.js.map": "/portfolio/static/js/main.c6f954dc.js.map"
   },
   "entrypoints": [
     "static/css/main.8497030b.css",
-    "static/js/main.3cabdc42.js"
+    "static/js/main.c6f954dc.js"
   ]
 }
