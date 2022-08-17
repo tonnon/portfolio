@@ -1,6 +1,7 @@
 import adidas from '../../assets/bgcards/adidas.webp';
 import alongnight from '../../assets/bgcards/alongnight.gif';
 import amongus from '../../assets/bgcards/amongus.webp';
+import beingsofgreatconsciousnessandlove from '../../assets/bgcards/beings-of-great-consciousness-and-love.webp';
 import bethehero from '../../assets/bgcards/bethehero.webp';
 import brightstarinourencounter from '../../assets/bgcards/brightstarinourencounter.webp';
 import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofaheart.webp';
@@ -70,6 +71,12 @@ let PortfolioList = [
         img: amongus,
         url: 'https://tonnon.github.io/among-us-start-reactor-mini-game/',
         category: ['all', 'game']
+    },
+    {
+        title: 'Beings of Great Consciousness and Love',
+        img: beingsofgreatconsciousnessandlove,
+        url: 'https://tonnon.github.io/beings-of-great-consciousness-and-love/',
+        category: ['all', 'website']
     },
     {
         title: 'Be The Hero',
