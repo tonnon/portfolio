@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8497030b.css",
-    "main.js": "/portfolio/static/js/main.7fdda5ca.js",
+    "main.js": "/portfolio/static/js/main.991964bf.js",
     "static/media/thewalkingdead.gif": "/portfolio/static/media/thewalkingdead.7fc32902d951c0606ea3.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.8bfa4688c5db1e48f1f0.gif",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.8e9008f1c315b3e912cc.gif",
@@ -59,10 +59,10 @@
     "static/media/vercel.webp": "/portfolio/static/media/vercel.871c26d5e0a2f022430d.webp",
     "index.html": "/portfolio/index.html",
     "main.8497030b.css.map": "/portfolio/static/css/main.8497030b.css.map",
-    "main.7fdda5ca.js.map": "/portfolio/static/js/main.7fdda5ca.js.map"
+    "main.991964bf.js.map": "/portfolio/static/js/main.991964bf.js.map"
   },
   "entrypoints": [
     "static/css/main.8497030b.css",
-    "static/js/main.7fdda5ca.js"
+    "static/js/main.991964bf.js"
   ]
 }
