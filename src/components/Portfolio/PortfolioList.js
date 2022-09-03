@@ -170,7 +170,7 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'Event Plataform',
+        title: 'Event Platform',
         img: eventplataform,
         url: 'https://tonnon.github.io/event-plataform/',
         category: ['all', 'website']
@@ -345,7 +345,7 @@ let PortfolioList = [
         category: ['all', 'website']
     },  
     {
-        title: 'Things That I Always Wanted Say To You',
+        title: 'Things That I Always Wanted To Say To You',
         img: thingsthatialwayswantedsaytoyou,
         url: 'https://tonnon.github.io/things-that-i-always-wanted-say-to-you/',
         category: ['all', 'website']
