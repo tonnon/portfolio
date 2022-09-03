@@ -15,23 +15,9 @@ function Portfolio() {
     const [itemsToShow, setItemsToShow] = useState(18);
 
     const slice = projects.slice(0, itemsToShow);
-
-    function shuffle(arra1) {
-        var ctr = arra1.length,
-          temp,
-          index;
-        while (ctr > 0) {
-          index = Math.floor(Math.random() * ctr);
-          ctr--;
-          temp = arra1[ctr];
-          arra1[ctr] = arra1[index];
-          arra1[index] = temp;
-        }
-        return arra1;
-      }
       
       useEffect(() => {
-        setProjects(shuffle(portfolio));
+        setProjects(portfolio);
         const filtered = portfolio.map(p => ({ ...p, filtered: p.category.includes(filter)}));
         setProjects(filtered);
       }, [filter], []);

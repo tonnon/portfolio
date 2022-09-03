@@ -1,4 +1,6 @@
+import spaceoddysey from '../../assets/bgcards/2001spaceoddysey.gif';
 import adidas from '../../assets/bgcards/adidas.webp';
+import afilosfiadaviagemdotempo from '../../assets/bgcards/afilosfiadaviagemdotempo.gif';
 import alongnight from '../../assets/bgcards/alongnight.gif';
 import amongus from '../../assets/bgcards/amongus.webp';
 import beingsofgreatconsciousnessandlove from '../../assets/bgcards/beings-of-great-consciousness-and-love.webp';
@@ -10,6 +12,7 @@ import calculadora from '../../assets/bgcards/calculadora.gif';
 import cardapio from '../../assets/bgcards/cardapio.gif';
 import companionofthesevenspaceships from '../../assets/bgcards/companionofthesevenspaceships.webp';
 import cyberpool from '../../assets/bgcards/cyberpool.webp';
+import cybersnake from '../../assets/bgcards/cybersnake.webp';
 import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
 import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
@@ -31,7 +34,6 @@ import illuminati from '../../assets/bgcards/illuminati.gif';
 import individualandcollectivetimeellipsis from '../../assets/bgcards/invidualandcollectivetimeellipsis.webp';
 import ledzeppelin from '../../assets/bgcards/ledzeppelin.gif';
 import letmeask from '../../assets/bgcards/letmeask.webp';
-import looperman from '../../assets/bgcards/looperman.gif';
 import lovelynight from '../../assets/bgcards/lovelynight.webp';
 import mygraphiccardwontstopscreaming from '../../assets/bgcards/mygraphiccardwontstopscreaming.webp'
 import newdawn from '../../assets/bgcards/newdawn.webp';
@@ -40,24 +42,35 @@ import pinterest from '../../assets/bgcards/pinterest.webp';
 import powerofthepeople from '../../assets/bgcards/powerofthepeople.webp';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
-import spaceoddysey from '../../assets/bgcards/spaceoddysey.gif';
 import splitmind from '../../assets/bgcards/splitmind.webp';
+import theamazinglooperman from '../../assets/bgcards/theamazinglooperman.gif';
+import thetruthdealer from '../../assets/bgcards/thetruthdealer.webp';
+import thewalkingdead from '../../assets/bgcards/thewalkingdead.gif';
 import thingsthatialwayswantedsaytoyou from '../../assets/bgcards/thingsthatialwayswantedsaytoyou.webp';
-import truthdealer from '../../assets/bgcards/truthdealer.webp';
 import universallawoflove from '../../assets/bgcards/universal-law-of-love.webp';
 import vercel from '../../assets/bgcards/vercel.webp';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
-import walkingdead from '../../assets/bgcards/walkingdead.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
 import wavesofjoy from '../../assets/bgcards/wavesofjoy.webp';
-import wormhole from '../../assets/bgcards/wormhole.gif';
 import youshinelikefireworksonthisemptytown from '../../assets/bgcards/youshinelikefireworksonthisemptytown.webp';
 
 let PortfolioList = [
     {
+        title: '2001: A Space Oddysey',
+        img: spaceoddysey,
+        url: 'https://tonnon.github.io/space-oddysey/',
+        category: ['all', 'website']
+    },
+    {
         title: 'Adidas',
         img: adidas,
         url: 'https://tonnon.github.io/adidas/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'A Filosofia da Viagem no Tempo',
+        img: afilosfiadaviagemdotempo,
+        url: 'https://tonnon.github.io/wormhole/',
         category: ['all', 'website']
     },
     {
@@ -124,6 +137,12 @@ let PortfolioList = [
         title: 'Cyberpool',
         img: cyberpool,
         url: 'https://tonnon.github.io/cyberpool/',
+        category: ['all', 'game']
+    },
+    {
+        title: 'Cybersnake',
+        img: cybersnake,
+        url: 'https://tonnon.github.io/cybersnake/',
         category: ['all', 'game']
     },
     {
@@ -253,12 +272,6 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'The Amazing Looperman',
-        img: looperman,
-        url: 'https://tonnon.github.io/the-amazing-looperman/',
-        category: ['all', 'game']
-    },
-    {
         title: 'Lovely Night For Those Two Lucky People',
         img: lovelynight,
         url: 'https://tonnon.github.io/lovely-night-for-those-two-lucky-people/',
@@ -296,12 +309,6 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'The Walking Dead',
-        img: walkingdead,
-        url: 'https://tonnon.github.io/the-walking-dead/',
-        category: ['all', 'website']
-    },  
-    {
         title: 'Rick and Morty',
         img: rickandmorty,
         url: 'https://rick-and-morty-infinitescroll.herokuapp.com/',
@@ -314,23 +321,29 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'Vercel',
-        img: vercel,
-        url: 'https://tonnon.github.io/vercel/',
-        category: ['all', 'website']
-    },
-    {
-        title: '2001: A Space Oddysey',
-        img: spaceoddysey,
-        url: 'https://tonnon.github.io/space-oddysey/',
-        category: ['all', 'website']
-    },
-    {
         title: 'Split Mind',
         img: splitmind,
         url: 'https://tonnon.github.io/split-mind/',
         category: ['all', 'website']
     },
+    {
+        title: 'The Amazing Looperman',
+        img: theamazinglooperman,
+        url: 'https://tonnon.github.io/the-amazing-looperman/',
+        category: ['all', 'game']
+    },
+    {
+        title: 'The Truth Dealer',
+        img: thetruthdealer,
+        url: 'https://tonnon.github.io/the-truth-dealer/',
+        category: ['all', 'game']
+    },
+    {
+        title: 'The Walking Dead',
+        img: thewalkingdead,
+        url: 'https://tonnon.github.io/the-walking-dead/',
+        category: ['all', 'website']
+    },  
     {
         title: 'Things That I Always Wanted Say To You',
         img: thingsthatialwayswantedsaytoyou,
@@ -338,15 +351,15 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
-        title: 'The Truth Dealer',
-        img: truthdealer,
-        url: 'https://tonnon.github.io/the-truth-dealer/',
-        category: ['all', 'game']
-    },
-    {
         title: 'Universal Law of Love',
         img: universallawoflove,
         url: 'https://tonnon.github.io/universal-law-of-love/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Vercel',
+        img: vercel,
+        url: 'https://tonnon.github.io/vercel/',
         category: ['all', 'website']
     },
     {
@@ -365,12 +378,6 @@ let PortfolioList = [
         title: 'Waves of Joy',
         img: wavesofjoy,
         url: 'https://tonnon.github.io/waves-of-joy/',
-        category: ['all', 'website']
-    },
-    {
-        title: 'A Filosofia da Viagem no Tempo',
-        img: wormhole,
-        url: 'https://tonnon.github.io/wormhole/',
         category: ['all', 'website']
     },
     {
