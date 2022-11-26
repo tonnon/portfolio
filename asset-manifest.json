@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3d8d16a5.css",
-    "main.js": "/portfolio/static/js/main.83737f67.js",
+    "main.js": "/portfolio/static/js/main.b64ca30d.js",
     "static/media/thewalkingdead.gif": "/portfolio/static/media/thewalkingdead.7fc32902d951c0606ea3.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.8bfa4688c5db1e48f1f0.gif",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.8e9008f1c315b3e912cc.gif",
@@ -40,6 +40,7 @@
     "static/media/invidualandcollectivetimeellipsis.webp": "/portfolio/static/media/invidualandcollectivetimeellipsis.0e668009bf8f837f8474.webp",
     "static/media/brightstarinourencounter.webp": "/portfolio/static/media/brightstarinourencounter.7b941e3b9afd8d63f8a1.webp",
     "static/media/hihowareyou.webp": "/portfolio/static/media/hihowareyou.14ef305aacb3776e5998.webp",
+    "static/media/twinsistersfromtheshinning.webp": "/portfolio/static/media/twinsistersfromtheshinning.d5a49b0641a4865853e4.webp",
     "static/media/powerofthepeople.webp": "/portfolio/static/media/powerofthepeople.3494eedc841d1794d810.webp",
     "static/media/companionofthesevenspaceships.webp": "/portfolio/static/media/companionofthesevenspaceships.23bc1e4d95530290326c.webp",
     "static/media/newdawn.webp": "/portfolio/static/media/newdawn.9d6df36fa665356beea5.webp",
@@ -60,10 +61,10 @@
     "static/media/vercel.webp": "/portfolio/static/media/vercel.871c26d5e0a2f022430d.webp",
     "index.html": "/portfolio/index.html",
     "main.3d8d16a5.css.map": "/portfolio/static/css/main.3d8d16a5.css.map",
-    "main.83737f67.js.map": "/portfolio/static/js/main.83737f67.js.map"
+    "main.b64ca30d.js.map": "/portfolio/static/js/main.b64ca30d.js.map"
   },
   "entrypoints": [
     "static/css/main.3d8d16a5.css",
-    "static/js/main.83737f67.js"
+    "static/js/main.b64ca30d.js"
   ]
 }
