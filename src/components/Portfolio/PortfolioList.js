@@ -48,6 +48,7 @@ import theamazinglooperman from '../../assets/bgcards/theamazinglooperman.gif';
 import thetruthdealer from '../../assets/bgcards/thetruthdealer.webp';
 import thewalkingdead from '../../assets/bgcards/thewalkingdead.gif';
 import thingsthatialwayswantedsaytoyou from '../../assets/bgcards/thingsthatialwayswantedsaytoyou.webp';
+import twinsistersfromtheshinning from '../../assets/bgcards/twinsistersfromtheshinning.webp';
 import universallawoflove from '../../assets/bgcards/universal-law-of-love.webp';
 import vercel from '../../assets/bgcards/vercel.webp';
 import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
@@ -355,6 +356,12 @@ let PortfolioList = [
         title: 'Things That I Always Wanted To Say To You',
         img: thingsthatialwayswantedsaytoyou,
         url: 'https://tonnon.github.io/things-that-i-always-wanted-say-to-you/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'Twin Sisters from The Shinning',
+        img: twinsistersfromtheshinning,
+        url: 'https://tonnon.github.io/twin-sisters-from-the-shinning/',
         category: ['all', 'website']
     },
     {
