@@ -67,7 +67,9 @@ function Portfolio() {
                         <div  className="card-wrap">
                             <a target="_blank" rel="noopener noreferrer" href={project.url}>
                                 <div className="card">
-                                    <div className="card-bg" style={{ backgroundImage:'url(' + `${project.img}` + ')'}}/>
+                                    <div className="card-bg">
+                                        <img src={project.img} />
+                                    </div>
                                     <div className="card-info">
                                         <h1>{project.title}</h1>
                                     </div>

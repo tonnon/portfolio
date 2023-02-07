@@ -43,6 +43,7 @@ import pinterest from '../../assets/bgcards/pinterest.webp';
 import powerofthepeople from '../../assets/bgcards/powerofthepeople.webp';
 import rickandmorty from '../../assets/bgcards/rickandmorty.gif';
 import soundtracker from '../../assets/bgcards/soundtracker.gif';
+import souzaadv from '../../assets/bgcards/souzaadv.webp';
 import splitmind from '../../assets/bgcards/splitmind.webp';
 import theamazinglooperman from '../../assets/bgcards/theamazinglooperman.gif';
 import thetruthdealer from '../../assets/bgcards/thetruthdealer.webp';
@@ -55,6 +56,7 @@ import verificacaoemail from '../../assets/bgcards/verificacaoemail.gif';
 import waroftheworlds from '../../assets/bgcards/war-of-the-worlds.gif';
 import wavesofjoy from '../../assets/bgcards/wavesofjoy.webp';
 import youshinelikefireworksonthisemptytown from '../../assets/bgcards/youshinelikefireworksonthisemptytown.webp';
+import youaretheonlyonewhowantsmearound from '../../assets/bgcards/youre-the-only-one-who-wants-me-around.webp';
 
 let PortfolioList = [
     {
@@ -329,6 +331,12 @@ let PortfolioList = [
         category: ['all', 'website']
     },
     {
+        title: 'Souza | Advocacia Criminal',
+        img: souzaadv,
+        url: 'https://tonnon.github.io/souza-adv/',
+        category: ['all', 'website']
+    },
+    {
         title: 'Split Mind',
         img: splitmind,
         url: 'https://tonnon.github.io/split-mind/',
@@ -392,6 +400,12 @@ let PortfolioList = [
         title: 'Waves of Joy',
         img: wavesofjoy,
         url: 'https://tonnon.github.io/waves-of-joy/',
+        category: ['all', 'website']
+    },
+    {
+        title: 'You are the Only One Who Wants Me Around ',
+        img: youaretheonlyonewhowantsmearound,
+        url: 'https://tonnon.github.io/youre-the-only-one-who-wants-me-around/',
         category: ['all', 'website']
     },
     {
