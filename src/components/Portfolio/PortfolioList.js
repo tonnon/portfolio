@@ -4,7 +4,6 @@ import afilosfiadaviagemdotempo from '../../assets/bgcards/afilosfiadaviagemdote
 import alongnight from '../../assets/bgcards/alongnight.gif';
 import amongus from '../../assets/bgcards/amongus.webp';
 import beingsofgreatconsciousnessandlove from '../../assets/bgcards/beings-of-great-consciousness-and-love.webp';
-import bethehero from '../../assets/bgcards/bethehero.webp';
 import brightstarinourencounter from '../../assets/bgcards/brightstarinourencounter.webp';
 import brokenglassshapedofaheart from '../../assets/bgcards/brokenglassshapedofaheart.webp';
 import btocmec from '../../assets/bgcards/btomec.gif';
@@ -93,12 +92,6 @@ let PortfolioList = [
         title: 'Beings of Great Consciousness and Love',
         img: beingsofgreatconsciousnessandlove,
         url: 'https://tonnon.github.io/beings-of-great-consciousness-and-love/',
-        category: ['all', 'website']
-    },
-    {
-        title: 'Be The Hero',
-        img: bethehero,
-        url: 'https://bahero.herokuapp.com/',
         category: ['all', 'website']
     },
     {
