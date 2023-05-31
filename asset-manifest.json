@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3d8d16a5.css",
-    "main.js": "/portfolio/static/js/main.b64ca30d.js",
+    "main.js": "/portfolio/static/js/main.d9e89cb0.js",
     "static/media/thewalkingdead.gif": "/portfolio/static/media/thewalkingdead.7fc32902d951c0606ea3.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.8bfa4688c5db1e48f1f0.gif",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.8e9008f1c315b3e912cc.gif",
@@ -28,7 +28,6 @@
     "static/media/wavesofjoy.webp": "/portfolio/static/media/wavesofjoy.0c230d5582efb910cdb2.webp",
     "static/media/halloween.webp": "/portfolio/static/media/halloween.97462ddbc814290b00b7.webp",
     "static/media/brokenglassshapedofaheart.webp": "/portfolio/static/media/brokenglassshapedofaheart.80c303d23620ece7c611.webp",
-    "static/media/bethehero.webp": "/portfolio/static/media/bethehero.7b0e6dae84e609c33947.webp",
     "static/media/golenflameemanatingfromtheinnerlight.webp": "/portfolio/static/media/golenflameemanatingfromtheinnerlight.a70026350ece151dff73.webp",
     "static/media/flapmorty.webp": "/portfolio/static/media/flapmorty.1707dc9363a6e480a21d.webp",
     "static/media/happyhourclub.webp": "/portfolio/static/media/happyhourclub.e74378863d0aa80e638a.webp",
@@ -36,11 +35,13 @@
     "static/media/experimentaltruchettiles.webp": "/portfolio/static/media/experimentaltruchettiles.5e3098f3b11ee10afd79.webp",
     "static/media/thingsthatialwayswantedsaytoyou.webp": "/portfolio/static/media/thingsthatialwayswantedsaytoyou.6a20e734fd263c9e3d5b.webp",
     "static/media/universal-law-of-love.webp": "/portfolio/static/media/universal-law-of-love.73ffd8f42504d2168e0b.webp",
+    "static/media/souzaadv.webp": "/portfolio/static/media/souzaadv.f8196cdf43da4c735f06.webp",
     "static/media/letmeask.webp": "/portfolio/static/media/letmeask.8c590b521415068cc827.webp",
     "static/media/invidualandcollectivetimeellipsis.webp": "/portfolio/static/media/invidualandcollectivetimeellipsis.0e668009bf8f837f8474.webp",
     "static/media/brightstarinourencounter.webp": "/portfolio/static/media/brightstarinourencounter.7b941e3b9afd8d63f8a1.webp",
     "static/media/hihowareyou.webp": "/portfolio/static/media/hihowareyou.14ef305aacb3776e5998.webp",
     "static/media/twinsistersfromtheshinning.webp": "/portfolio/static/media/twinsistersfromtheshinning.d5a49b0641a4865853e4.webp",
+    "static/media/youre-the-only-one-who-wants-me-around.webp": "/portfolio/static/media/youre-the-only-one-who-wants-me-around.475ff4566e29bd6fde4e.webp",
     "static/media/powerofthepeople.webp": "/portfolio/static/media/powerofthepeople.3494eedc841d1794d810.webp",
     "static/media/companionofthesevenspaceships.webp": "/portfolio/static/media/companionofthesevenspaceships.23bc1e4d95530290326c.webp",
     "static/media/newdawn.webp": "/portfolio/static/media/newdawn.9d6df36fa665356beea5.webp",
@@ -61,10 +62,10 @@
     "static/media/vercel.webp": "/portfolio/static/media/vercel.871c26d5e0a2f022430d.webp",
     "index.html": "/portfolio/index.html",
     "main.3d8d16a5.css.map": "/portfolio/static/css/main.3d8d16a5.css.map",
-    "main.b64ca30d.js.map": "/portfolio/static/js/main.b64ca30d.js.map"
+    "main.d9e89cb0.js.map": "/portfolio/static/js/main.d9e89cb0.js.map"
   },
   "entrypoints": [
     "static/css/main.3d8d16a5.css",
-    "static/js/main.b64ca30d.js"
+    "static/js/main.d9e89cb0.js"
   ]
 }
