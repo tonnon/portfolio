@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3d8d16a5.css",
-    "main.js": "/portfolio/static/js/main.d9e89cb0.js",
+    "main.js": "/portfolio/static/js/main.85130312.js",
     "static/media/thewalkingdead.gif": "/portfolio/static/media/thewalkingdead.7fc32902d951c0606ea3.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.8bfa4688c5db1e48f1f0.gif",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.8e9008f1c315b3e912cc.gif",
@@ -12,7 +12,6 @@
     "static/media/2001spaceoddysey.gif": "/portfolio/static/media/2001spaceoddysey.3ed7951fef63e3f9f0d7.gif",
     "static/media/war-of-the-worlds.gif": "/portfolio/static/media/war-of-the-worlds.a4aca2b99241b762763b.gif",
     "static/media/calculadora.gif": "/portfolio/static/media/calculadora.aa2bc1160bb974b9a2e8.gif",
-    "static/media/cybertetromino.gif": "/portfolio/static/media/cybertetromino.9db2149a75b053fe2f55.gif",
     "static/media/deadgods.gif": "/portfolio/static/media/deadgods.db76072bb034807ddd3e.gif",
     "static/media/everydayisaroughtime.gif": "/portfolio/static/media/everydayisaroughtime.96adc7095e4f58276865.gif",
     "static/media/soundtracker.gif": "/portfolio/static/media/soundtracker.7c6e79a3aef04ddbdfa0.gif",
@@ -62,10 +61,10 @@
     "static/media/vercel.webp": "/portfolio/static/media/vercel.871c26d5e0a2f022430d.webp",
     "index.html": "/portfolio/index.html",
     "main.3d8d16a5.css.map": "/portfolio/static/css/main.3d8d16a5.css.map",
-    "main.d9e89cb0.js.map": "/portfolio/static/js/main.d9e89cb0.js.map"
+    "main.85130312.js.map": "/portfolio/static/js/main.85130312.js.map"
   },
   "entrypoints": [
     "static/css/main.3d8d16a5.css",
-    "static/js/main.d9e89cb0.js"
+    "static/js/main.85130312.js"
   ]
 }
