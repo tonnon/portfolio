@@ -12,7 +12,6 @@ import cardapio from '../../assets/bgcards/cardapio.gif';
 import companionofthesevenspaceships from '../../assets/bgcards/companionofthesevenspaceships.webp';
 import cyberpool from '../../assets/bgcards/cyberpool.webp';
 import cybersnake from '../../assets/bgcards/cybersnake.webp';
-import cybertetromino from '../../assets/bgcards/cybertetromino.gif';
 import deadgods from '../../assets/bgcards/deadgods.gif';
 import deusesastronautas from '../../assets/bgcards/deusesastronautas.gif';
 import eclipsers from '../../assets/bgcards/eclipsers.gif';
@@ -140,12 +139,6 @@ let PortfolioList = [
         title: 'Cybersnake',
         img: cybersnake,
         url: 'https://tonnon.github.io/cybersnake/',
-        category: ['all', 'game']
-    },
-    {
-        title: 'Cyber Tetromino',
-        img: cybertetromino,
-        url: 'https://cyber-tetromino.herokuapp.com/',
         category: ['all', 'game']
     },
     {
@@ -314,7 +307,7 @@ let PortfolioList = [
     {
         title: 'Rick and Morty',
         img: rickandmorty,
-        url: 'https://rick-and-morty-infinitescroll.herokuapp.com/',
+        url: 'https://tonnon.github.io/rick-and-morty-infinitesscroll/',
         category: ['all', 'website']
     },
     {
