@@ -19,6 +19,7 @@ import eventplataform from '../../assets/bgcards/eventplataform.webp';
 import everydayisaroughtime from '../../assets/bgcards/everydayisaroughtime.gif';
 import experimentaltruchettiles from '../../assets/bgcards/experimentaltruchettiles.webp';
 import feedbackwidget from '../../assets/bgcards/feedbackwidget.webp';
+import extrapiecefromacompletedpuzzle from '../../assets/bgcards/extra-piece-from-a-completed-puzzle.webp'
 import flapmorty from '../../assets/bgcards/flapmorty.webp';
 import formtemplate from '../../assets/bgcards/formtemplate.gif';
 import golenflameemanatingfromtheinnerlight from '../../assets/bgcards/golenflameemanatingfromtheinnerlight.webp';
@@ -176,6 +177,12 @@ let PortfolioList = [
         img: experimentaltruchettiles,
         url: 'https://tonnon.github.io/experimental-truchet-tiles/',
         category: ['all', 'website']
+    },
+    {
+        title: 'Extra Piece From a Completed Puzzle',
+        img: extrapiecefromacompletedpuzzle,
+        url: 'https://tonnon.github.io/extra-piece-from-a-completed-puzzle/',
+        category: ['all', 'website'] 
     },
     {
         title: 'Feedback Widget',
