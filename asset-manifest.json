@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3d8d16a5.css",
-    "main.js": "/portfolio/static/js/main.85130312.js",
+    "main.js": "/portfolio/static/js/main.7ca53ddf.js",
     "static/media/thewalkingdead.gif": "/portfolio/static/media/thewalkingdead.7fc32902d951c0606ea3.gif",
     "static/media/eclipsers.gif": "/portfolio/static/media/eclipsers.8bfa4688c5db1e48f1f0.gif",
     "static/media/helptoner.gif": "/portfolio/static/media/helptoner.8e9008f1c315b3e912cc.gif",
@@ -42,6 +42,7 @@
     "static/media/twinsistersfromtheshinning.webp": "/portfolio/static/media/twinsistersfromtheshinning.d5a49b0641a4865853e4.webp",
     "static/media/youre-the-only-one-who-wants-me-around.webp": "/portfolio/static/media/youre-the-only-one-who-wants-me-around.475ff4566e29bd6fde4e.webp",
     "static/media/powerofthepeople.webp": "/portfolio/static/media/powerofthepeople.3494eedc841d1794d810.webp",
+    "static/media/extra-piece-from-a-completed-puzzle.webp": "/portfolio/static/media/extra-piece-from-a-completed-puzzle.ff88e9ff182dcd3bf3d2.webp",
     "static/media/companionofthesevenspaceships.webp": "/portfolio/static/media/companionofthesevenspaceships.23bc1e4d95530290326c.webp",
     "static/media/newdawn.webp": "/portfolio/static/media/newdawn.9d6df36fa665356beea5.webp",
     "static/media/youshinelikefireworksonthisemptytown.webp": "/portfolio/static/media/youshinelikefireworksonthisemptytown.1c4cc3fd89d541da8a13.webp",
@@ -61,10 +62,10 @@
     "static/media/vercel.webp": "/portfolio/static/media/vercel.871c26d5e0a2f022430d.webp",
     "index.html": "/portfolio/index.html",
     "main.3d8d16a5.css.map": "/portfolio/static/css/main.3d8d16a5.css.map",
-    "main.85130312.js.map": "/portfolio/static/js/main.85130312.js.map"
+    "main.7ca53ddf.js.map": "/portfolio/static/js/main.7ca53ddf.js.map"
   },
   "entrypoints": [
     "static/css/main.3d8d16a5.css",
-    "static/js/main.85130312.js"
+    "static/js/main.7ca53ddf.js"
   ]
 }
