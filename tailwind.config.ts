@@ -12,6 +12,12 @@ const config: Config = {
         'background-color': '#030014'
       }
     },
+    boxShadow: {
+      neon: '0 0 2px #b66df5, 0 0 2px #b66df5, 0 0 2px #b66df5, 0 0 10px #b66df5',
+    },
+    borderColor: {
+      neon: '#b66df5',
+    },
     screens: {
       'xm': {'max': '550px'}
     }

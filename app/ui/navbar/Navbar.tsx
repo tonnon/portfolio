@@ -3,20 +3,20 @@ import { IoLogoIonic } from "react-icons/io";
 import { FaGithub, FaLinkedin  } from "react-icons/fa";
 
 const Navbar = () => {
-const socials = [ 
-    {
-        id: 'github',
-        icon: <FaGithub size={30}/>,
-        link: 'https://github.com/tonnon'
-    },
-    {
-        id: 'linkedin',
-        icon: <FaLinkedin size={30}/>,
-        link: 'https://www.linkedin.com/in/lucastonnon/'
-    }
-];
+    const socials = [ 
+        {
+            id: 'github',
+            icon: <FaGithub size={30} color='#b66df5'/>,
+            link: 'https://github.com/tonnon'
+        },
+        {
+            id: 'linkedin',
+            icon: <FaLinkedin size={30} color='#b66df5'/>,
+            link: 'https://www.linkedin.com/in/lucastonnon/'
+        }
+    ];
   return (
-    <div className='w-full h-[65px] fixed top-0 shadow-lg shadow-[#b66df5]/50 bg-[#03001417] backdrop-blur-md z-50 px-10 xm:px-[0]'>
+    <div className='w-full h-[65px] fixed top-0 shadow-lg shadow-neon bg-[#03001417] backdrop-blur-md z-50 px-10 xm:px-[0]'>
          <div className="w-full h-full flex flex-row items-center justify-between px-[10px]">
             <IoLogoIonic 
                 color='#b66df5'
