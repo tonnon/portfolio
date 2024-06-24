@@ -45,7 +45,7 @@ const Navbar = () => {
                             /* checked="" */
                         />
                         <span className="tracking-widest peer-checked:bg-gradient-to-r peer-checked:from-[blueviolet] peer-checked:to-[violet] peer-checked:text-white text-white px-5 py-1 rounded-full transition duration-150 ease-in-out">
-                            Wensites
+                            Websites
                         </span>
                     </label>
                     <label className="radio flex flex-grow items-center justify-center rounded-full cursor-pointer">

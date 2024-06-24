@@ -4,10 +4,10 @@ import Link from 'next/link';
 
 const Projects = () => {
   return (
-    <div className='absolute top-[150px] z-[2] left-0 flex flex-col items-center justify-center'>
-        <div className='flex flex-col md:flex-row gap-10 px-10 hover:cursor-pointer'>
+    <div className='absolute top-[150px] z-[2]'>
+        <div className="flex justify-center flex-wrap gap-[71px] hover:cursor-pointer px-[50px]">
         {projectslist.map((project, id) => (
-            <Link href={project.url} target='__blank' key={id} className="w-full h-full rounded-lg border border-neon shadow-neon">
+            <Link href={project.url} target='__blank' key={id} className="w-[240px] h-full rounded-lg border border-neon shadow-neon">
                 <Image
                     src={project.img}
                     alt={project.title}
