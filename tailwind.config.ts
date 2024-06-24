@@ -12,6 +12,9 @@ const config: Config = {
         'background-color': '#030014'
       }
     },
+    screens: {
+      'xm': {'max': '550px'}
+    }
   },
   plugins: [],
 };
