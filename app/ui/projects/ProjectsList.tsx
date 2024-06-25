@@ -1,5 +1,5 @@
 import spaceoddysey from '../../../public/bgcards/2001spaceoddysey.gif';
-import adidas from '../../../public/bgcards/adidas.webp';
+import adidas from '../../../public/bgcards/adidas.gif';
 import afilosfiadaviagemdotempo from '../../../public/bgcards/afilosfiadaviagemdotempo.gif';
 import alongnight from '../../../public/bgcards/alongnight.gif';
 import amongus from '../../../public/bgcards/amongus.webp';

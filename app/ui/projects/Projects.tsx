@@ -27,7 +27,7 @@ const Projects = () => {
                             <Image
                                 src={project.img}
                                 alt={project.title}
-                                layout="fill"
+                                fill
                                 className='object-cover'
                             />
                         </div>
