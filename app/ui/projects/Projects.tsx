@@ -28,7 +28,7 @@ const Projects = () => {
                                 src={project.img}
                                 alt={project.title}
                                 layout="fill"
-                                className='object-cover brightness-75'
+                                className='object-cover'
                             />
                         </div>
                         <div className='relative p-4 bg-[#03001417] backdrop-blur-md rounded-b-lg h-fill'>
