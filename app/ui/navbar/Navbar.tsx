@@ -2,7 +2,15 @@ import React from 'react'
 import { IoLogoIonic } from "react-icons/io";
 import { FaGithub, FaLinkedin  } from "react-icons/fa";
 
-const Navbar = () => {
+interface NavbarProps {
+    handleCategoryChange: (category: "all" | "websites" | "games") => void;
+    selectedCategory: string;
+  }
+
+const Navbar = ({ handleCategoryChange, selectedCategory }: NavbarProps) => {
+    const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+        handleCategoryChange(event.target.value as "all" | "websites" | "games");
+    };
     const socials = [ 
         {
             id: 'github',
@@ -30,7 +38,8 @@ const Navbar = () => {
                             name="radio"
                             value="all"
                             className="peer hidden"
-                            /* checked={true} */
+                            checked={selectedCategory === 'all'}
+                            onChange={handleChange}
                         />
                         <span className="tracking-widest peer-checked:bg-gradient-to-r peer-checked:from-[blueviolet] peer-checked:to-[violet] peer-checked:text-white text-white px-5 py-1 rounded-full transition duration-150 ease-in-out">
                             All
@@ -40,9 +49,10 @@ const Navbar = () => {
                         <input
                             type="radio"
                             name="radio"
-                            value="websites"
+                            value="website"
                             className="peer hidden"
-                            /* checked="" */
+                            checked={selectedCategory === 'website'}
+                            onChange={handleChange}
                         />
                         <span className="tracking-widest peer-checked:bg-gradient-to-r peer-checked:from-[blueviolet] peer-checked:to-[violet] peer-checked:text-white text-white px-5 py-1 rounded-full transition duration-150 ease-in-out">
                             Websites
@@ -52,9 +62,10 @@ const Navbar = () => {
                         <input
                             type="radio"
                             name="radio"
-                            value="games"
+                            value="game"
                             className="peer hidden"
-                            /* checked="" */
+                            checked={selectedCategory === 'game'}
+                            onChange={handleChange}
                         />
                         <span className="tracking-widest peer-checked:bg-gradient-to-r peer-checked:from-[blueviolet] peer-checked:to-[violet] peer-checked:text-white text-white px-5 py-1 rounded-full transition duration-150 ease-in-out">
                             Games
