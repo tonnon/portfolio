@@ -69,7 +69,7 @@ let ProjectsList = [
         id: '2',
         title: 'Adidas',
         img: adidas,
-        url: 'https://tonnon.github.io/adidas/',
+        url: 'https://adidas-ecommerce.vercel.app/',
         category: ['all', 'website']
     },
     {
