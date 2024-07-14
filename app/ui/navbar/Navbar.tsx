@@ -29,8 +29,9 @@ const Navbar = ({ handleCategoryChange, selectedCategory }: NavbarProps) => {
             <IoLogoIonic 
                 color='#b66df5'
                 size={30}
+                className='xm:hidden'
             />
-            <div className="w-auto h-full flex flex-row items-center justify-between">
+            <div className="w-auto h-full flex flex-row items-center justify-between xm:mr-auto">
                 <div className='flex items-center justify-between w-full h-auto border border-[#7042f861] bg-[#0300145e] px-[5px] py-[5px] rounded-full text-gray-200 gap-1'>
                     <label className="radio flex flex-grow items-center justify-center rounded-lg cursor-pointer">
                         <input
@@ -73,7 +74,7 @@ const Navbar = ({ handleCategoryChange, selectedCategory }: NavbarProps) => {
                     </label>
                 </div>
             </div>
-            <div className='flex flex-row gap-2'> 
+            <div className='flex flex-row gap-2 xm:hidden'> 
             {socials.map((social, id) => (
                 <a className="text-white" key={id} href={social.link} target='__blank'>{social.icon}</a>
             ))}
