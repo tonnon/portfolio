@@ -25,13 +25,13 @@ const Navbar = ({ handleCategoryChange, selectedCategory }: NavbarProps) => {
     ];
   return (
     <div className='w-full h-[65px] fixed top-0 shadow-lg shadow-neon bg-[#03001417] backdrop-blur-md z-50 px-10 xm:px-[0]'>
-         <div className="w-full h-full flex flex-row items-center justify-between px-[10px]">
+         <div className="w-full h-full flex flex-row items-center justify-between px-[10px] xm:justify-center">
             <IoLogoIonic 
                 color='#b66df5'
                 size={30}
                 className='xm:hidden'
             />
-            <div className="w-auto h-full flex flex-row items-center justify-between xm:mr-auto sm:mr-auto">
+            <div className="w-auto h-full flex flex-row items-center justify-between">
                 <div className='flex items-center justify-between w-full h-auto border border-[#7042f861] bg-[#0300145e] px-[5px] py-[5px] rounded-full text-gray-200 gap-1'>
                     <label className="radio flex flex-grow items-center justify-center rounded-lg cursor-pointer">
                         <input
